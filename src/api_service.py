@@ -1,6 +1,13 @@
 import json
-
 from requests import get
+from abc import ABC, abstractmethod
+
+
+class ApiService(ABC):
+
+    @abstractmethod
+    def get_aeroplanes(self, country: str) -> None:
+        pass
 
 
 class APIAdapter:
@@ -44,11 +51,14 @@ class APIAdapter:
         #Пример ответа от opensky-network можно посмотреть в задании курсовой.
         self.aeroplanes = response.json()
 
+
+
+
 api = APIAdapter()
 result = api.get_aeroplanes('Canada')
 with open('save_api.txt', 'w', encoding='utf-8') as f:
     json.dump(api.aeroplanes, f, indent=2, ensure_ascii=False)
-print(api.aeroplanes)
+print(json.dumps(api.aeroplanes))
 
 
 
