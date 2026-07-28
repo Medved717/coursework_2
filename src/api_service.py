@@ -1,6 +1,7 @@
-import json
 from requests import get
 from abc import ABC, abstractmethod
+import json
+import os
 
 
 class ApiService(ABC):
@@ -10,7 +11,7 @@ class ApiService(ABC):
         pass
 
 
-class APIAdapter:
+class APIAdapter(ApiService):
 
     def __init__(self) -> None:
         self.openstreetmap_url = 'https://nominatim.openstreetmap.org/search'
@@ -18,8 +19,7 @@ class APIAdapter:
         self.aeroplanes = None
 
     def get_aeroplanes(self, country: str) -> None:
-        #Headers с user-agent - обязательный параметр при запросе к nominatim.openstreetmap.
-        #Вы можете использовать любое название вместо test-app/1.0, например просто test-app.
+        """Собираем данные по стране, получаем координаты и в данном диапазоне получаем список самолетов."""
         headers_nominatim = {
             'User-Agent': 'test-app/1.0',
         }
@@ -31,35 +31,63 @@ class APIAdapter:
             'limit': 1,
         }
 
-        response = get(url=self.openstreetmap_url, params=params_nominatim, headers=headers_nominatim)
+        try:
+            response = get(url=self.openstreetmap_url, params=params_nominatim, headers=headers_nominatim, timeout=60)
+            response.raise_for_status()
+        except Exception as a:
+            print(f'Произошла ошибка получения данных от источника - nominatim\nКод ошибки: {a}')
+            return None
+
 
         data = response.json()
 
-        #Пример ответа от nominatim.openstreetmap можно посмотреть в задании курсовой.
+        if not data:
+            print('Страна не найдена в базе Nominatim')
+            return None
+
+        if 'boundingbox' not in data[0]:
+            print('В ответе отсутствуют координаты boundingbox.')
+            return None
+
         geo_coordinates = data[0].get('boundingbox')
+
+        if not geo_coordinates or len(geo_coordinates) != 4:
+            print('Ошибка! Отсутствуют координаты или получен их неполный список.')
+            return None
 
         #Параметры для фильтрации самолетов по их географическим координатам.
         params = {
-            'lamin': geo_coordinates[0],
-            'lamax': geo_coordinates[1],
-            'lomin': geo_coordinates[2],
-            'lomax': geo_coordinates[3],
+            'lamin': float(geo_coordinates[0]),
+            'lamax': float(geo_coordinates[1]),
+            'lomin': float(geo_coordinates[2]),
+            'lomax': float(geo_coordinates[3]),
         }
 
-        response = get(url=self.opensky_url, params=params)
+        try:
+            response = get(url=self.opensky_url, params=params, timeout=60)
+            response.raise_for_status()
+        except Exception as e:
+            print(f'Произошла ошибка получения данных от источника - opensky\nКод ошибки: {e}')
+            return None
 
-        #Пример ответа от opensky-network можно посмотреть в задании курсовой.
+        # Это результат программы в формате словаря
         self.aeroplanes = response.json()
+        return self
 
+
+    def save_planes(self):
+
+        current_file = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        file_path = os.path.join(current_file, 'data', 'save_api_planes_1.txt')
+
+        with open(file_path, 'w', encoding='utf-8') as f:
+            json.dump(self.aeroplanes, f, indent=2, ensure_ascii=False)
+        return self
 
 
 
 api = APIAdapter()
-result = api.get_aeroplanes('Canada')
-with open('save_api.txt', 'w', encoding='utf-8') as f:
-    json.dump(api.aeroplanes, f, indent=2, ensure_ascii=False)
-print(json.dumps(api.aeroplanes))
-
+api.get_aeroplanes('Canada').save_planes()
 
 
 
