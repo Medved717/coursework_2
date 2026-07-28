@@ -86,8 +86,7 @@ class APIAdapter(ApiService):
 
 
 
-api = APIAdapter()
-api.get_aeroplanes('Canada').save_planes()
+
 
 
 

@@ -25,11 +25,15 @@ class Aeroplane:
 
         return new_list_plane
 
-    @staticmethod
-    def get_plane(plane):
-        return Aeroplane(country_of_registration=plane[2] if plane[2] else 'Неизвестно',
-                         call_sign=plane[1] if plane[1] else 'Неизвестно',
+    @classmethod
+    def get_plane(cls, plane):
+        return cls(country_of_registration=plane[2].strip() if plane[2] else 'Неизвестно',
+                         call_sign=plane[1].strip() if plane[1] else 'Неизвестно',
                          velocity=plane[9] if plane[9] is not None else 0.0,
-                         geo_altitude=plane[13]if plane[13] is not None else 0.0)
+                         geo_altitude=plane[13] if plane[13] is not None else 0.0)
+
+    def __repr__(self):
+        return f'Aeroplane({self.country_of_registration}, {self.call_sign}, {self.velocity}, {self.geo_altitude})'
+
 
 
