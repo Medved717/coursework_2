@@ -57,5 +57,12 @@ class Aeroplane:
                     'velocity': self.velocity,
                     'geo_altitude':self.geo_altitude}
 
+    @classmethod
+    def to_obj(cls, dict_obj):
+            return Aeroplane(dict_obj['country_of_registration'],
+                    dict_obj['call_sign'],
+                    dict_obj['velocity'],
+                             dict_obj['geo_altitude'])
+
 
 
