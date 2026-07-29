@@ -39,6 +39,7 @@
 
 
 import json
+from xml.etree.ElementTree import indent
 
 from src.api_service import APIAdapter
 from src.plane_service import Aeroplane
@@ -78,7 +79,10 @@ import os
 #     EditingFiles.save_planes_list_objects_json(list_planes)
 
 
-# Проверка поиска самолетов по-позывному.
+# Проверка поиска самолетов по-позывному и стране.
 if __name__ == "__main__":
     result = EditingFiles.search_plane_call_sing("VJA535")
+    result_2 = EditingFiles.search_plane_country_of_registration("Canada")
     print(result)
+    for i in result_2:
+        print(i)
