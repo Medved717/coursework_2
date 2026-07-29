@@ -27,23 +27,35 @@ class Aeroplane:
 
     @classmethod
     def get_plane(cls, plane):
+        "Создаем экземпляры класса (Самолеты) по следующим параметрам с обязательной валидацией."
+
         return cls(country_of_registration=plane[2].strip() if plane[2] else 'Неизвестно',
                          call_sign=plane[1].strip() if plane[1] else 'Неизвестно',
                          velocity=plane[9] if plane[9] is not None else 0.0,
                          geo_altitude=plane[13] if plane[13] is not None else 0.0)
 
     def __repr__(self):
-        return f'Aeroplane({str(self.country_of_registration)}, {str(self.call_sign)}, {self.velocity}, {self.geo_altitude})'
+        return f'Aeroplane("{self.country_of_registration}", "{self.call_sign}", {self.velocity}, {self.geo_altitude})'
 
 
     def height_comparison(self, other):
+        """Сравнение самолетов по высоте полета."""
+
         if self.geo_altitude > other.geo_altitude:
             return self
         else:
             return other
 
     def speed_comparison(self, other):
+        """Сравнение самолетов по скорости полета."""
+
         return self if self.velocity > other.velocity else other
+
+    def to_dict(self):
+            return {'country_of_registration':self.country_of_registration,
+                    'call_sign': self.call_sign,
+                    'velocity': self.velocity,
+                    'geo_altitude':self.geo_altitude}
 
 
 

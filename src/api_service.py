@@ -75,11 +75,4 @@ class APIAdapter(ApiService):
         return self
 
 
-    def save_planes(self):
 
-        current_file = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-        file_path = os.path.join(current_file, 'data', 'save_api.txt')
-
-        with open(file_path, 'w', encoding='utf-8') as f:
-            json.dump(self.aeroplanes, f, indent=2, ensure_ascii=False)
-        return self
