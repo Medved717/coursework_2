@@ -33,7 +33,17 @@ class Aeroplane:
                          geo_altitude=plane[13] if plane[13] is not None else 0.0)
 
     def __repr__(self):
-        return f'Aeroplane({self.country_of_registration}, {self.call_sign}, {self.velocity}, {self.geo_altitude})'
+        return f'Aeroplane({str(self.country_of_registration)}, {str(self.call_sign)}, {self.velocity}, {self.geo_altitude})'
+
+
+    def height_comparison(self, other):
+        if self.geo_altitude > other.geo_altitude:
+            return self
+        else:
+            return other
+
+    def speed_comparison(self, other):
+        return self if self.velocity > other.velocity else other
 
 
 

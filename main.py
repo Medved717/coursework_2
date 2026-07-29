@@ -34,18 +34,32 @@
 #
 # if __name__ == "__main__":
 #     user_interaction()
+
+
+
+
 import json
 
 from src.api_service import APIAdapter
 from src.plane_service import Aeroplane
 import os
 
+# if __name__ == "__main__":
+#
+#     file_result = os.path.join('data', 'save_api.txt')
+#     with open(file_result, 'r', encoding='utf-8') as f:
+#         data = json.load(f)
+#
+#     result = Aeroplane.cast_to_object_list(data)
+#     for i in result:
+#         print(i)
+
+
+
 if __name__ == "__main__":
-
-    file_result = os.path.join('data', 'save_api.txt')
-    with open(file_result, 'r', encoding='utf-8') as f:
-        data = json.load(f)
-
-    result = Aeroplane.cast_to_object_list(data)
-    for i in result:
-        print(i)
+    plane_1 = Aeroplane('Canada', 'WJA221', 178.08, 12694.92)
+    plane_2 = Aeroplane('Canada', 'ROU1922', 288.85, 11117.58)
+    result_1 = plane_1.height_comparison(plane_2)
+    result_2 = plane_2.speed_comparison(plane_1)
+    print(result_1)
+    print(result_2)
