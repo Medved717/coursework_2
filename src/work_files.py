@@ -40,3 +40,11 @@ class EditingFiles(WorkFiles):
         with open(file_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
 
+    def delete_all_planes_list_objects_json():
+        """Удаление всего списка самолетов в файле list_objects_planes.json"""
+
+        current_file = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        file_path = os.path.join(current_file, 'data', 'list_objects_planes.json')
+
+        with open(file_path, 'w', encoding='utf-8') as f:
+            json.dump([], f)
