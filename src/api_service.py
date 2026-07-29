@@ -73,6 +73,3 @@ class APIAdapter(ApiService):
         # Это результат программы в формате словаря
         self.aeroplanes = response.json()
         return self
-
-
-

@@ -1,3 +1,7 @@
+import os
+import json
+
+
 class Aeroplane:
     country_of_registration: str
     call_sign: str
@@ -51,18 +55,70 @@ class Aeroplane:
 
         return self if self.velocity > other.velocity else other
 
+    def top_geo_altitude(top):
+
+        current_file = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        file_path = os.path.join(current_file, 'data', 'list_objects_planes.json')
+
+        with open(file_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+
+        list_obj = []
+        list_dict_panes = sorted(data, key=lambda x: x['geo_altitude'], reverse=True)
+        for plane in list_dict_panes:
+            obj = Aeroplane.to_obj(plane)
+            list_obj.append(obj)
+
+        if len(list_obj) < int(top):
+            print('Список самолетов меньше указанного топа.')
+            return list_obj
+        else:
+            return list_obj[:top]
+
     def to_dict(self):
-            return {'country_of_registration':self.country_of_registration,
-                    'call_sign': self.call_sign,
-                    'velocity': self.velocity,
-                    'geo_altitude':self.geo_altitude}
+        """Перевод объекта класса в словарь."""
 
-    @classmethod
-    def to_obj(cls, dict_obj):
-            return Aeroplane(dict_obj['country_of_registration'],
-                    dict_obj['call_sign'],
-                    dict_obj['velocity'],
-                             dict_obj['geo_altitude'])
+        return {'country_of_registration':self.country_of_registration,
+                'call_sign': self.call_sign,
+                'velocity': self.velocity,
+                'geo_altitude':self.geo_altitude}
 
+    def to_obj(dict_obj):
+        """Перевод из словаря в объект класса Aeroplane."""
 
+        return Aeroplane(dict_obj['country_of_registration'],
+                dict_obj['call_sign'],
+                dict_obj['velocity'],
+                         dict_obj['geo_altitude'])
 
+    def search_plane_call_sing(call_sign):
+        """Ищем самолеты по позывному и выводим списки найденных объектов"""
+
+        current_file = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        file_path = os.path.join(current_file, 'data', 'list_objects_planes.json')
+
+        with open(file_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+
+        list_search_obg_plane = []
+        sorted_call_sing = [plain for plain in data if plain['call_sign'] == call_sign]
+        for plane in sorted_call_sing:
+            obj_plane = Aeroplane.to_obj(plane)
+            list_search_obg_plane.append(obj_plane)
+        return list_search_obg_plane
+
+    def search_plane_country_of_registration(country_of_registration):
+        """Ищем самолеты по странам и выводим списки."""
+
+        current_file = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        file_path = os.path.join(current_file, 'data', 'list_objects_planes.json')
+
+        with open(file_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+
+        list_search_obg_plane_country = []
+        sorted_call_sing = [plain for plain in data if plain['country_of_registration'] == country_of_registration]
+        for plane in sorted_call_sing:
+            obj_plane = Aeroplane.to_obj(plane)
+            list_search_obg_plane_country.append(obj_plane)
+        return list_search_obg_plane_country

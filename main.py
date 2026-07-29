@@ -79,10 +79,19 @@ import os
 #     EditingFiles.save_planes_list_objects_json(list_planes)
 
 
+# # Проверка поиска самолетов по-позывному и стране.
+# if __name__ == "__main__":
+#     result = EditingFiles.search_plane_call_sing("VJA535")
+#     result_2 = EditingFiles.search_plane_country_of_registration("Canada")
+#     print(result)
+#     for i in result_2:
+#         print(i)
+
+
+
 # Проверка поиска самолетов по-позывному и стране.
 if __name__ == "__main__":
-    result = EditingFiles.search_plane_call_sing("VJA535")
-    result_2 = EditingFiles.search_plane_country_of_registration("Canada")
-    print(result)
-    for i in result_2:
+    sorted_file = Aeroplane.top_geo_altitude(200)
+
+    for i in sorted_file:
         print(i)

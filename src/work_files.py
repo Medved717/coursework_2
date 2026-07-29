@@ -50,7 +50,7 @@ class EditingFiles(WorkFiles):
 
         with open(file_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
-
+        return None
 
     def delete_all_planes_list_objects_json(self):
         """Удаление всего списка самолетов в файле list_objects_planes.json"""
@@ -60,35 +60,4 @@ class EditingFiles(WorkFiles):
 
         with open(file_path, 'w', encoding='utf-8') as f:
             json.dump([], f)
-
-    def search_plane_call_sing(call_sign):
-        """Ищем самолеты по позывному и выводим списки найденных объектов"""
-
-        current_file = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-        file_path = os.path.join(current_file, 'data', 'list_objects_planes.json')
-
-        with open(file_path, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-
-        list_search_obg_plane = []
-        sorted_call_sing = [plain for plain in data if plain['call_sign'] == call_sign]
-        for plane in sorted_call_sing:
-            obj_plane = Aeroplane.to_obj(plane)
-            list_search_obg_plane.append(obj_plane)
-        return list_search_obg_plane
-
-    def search_plane_country_of_registration(country_of_registration):
-        """Ищем самолеты по странам и выводим списки."""
-
-        current_file = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-        file_path = os.path.join(current_file, 'data', 'list_objects_planes.json')
-
-        with open(file_path, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-
-        list_search_obg_plane_country = []
-        sorted_call_sing = [plain for plain in data if plain['country_of_registration'] == country_of_registration]
-        for plane in sorted_call_sing:
-            obj_plane = Aeroplane.to_obj(plane)
-            list_search_obg_plane_country.append(obj_plane)
-        return list_search_obg_plane_country
+        return None
