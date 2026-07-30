@@ -109,3 +109,26 @@ class EditingFiles(WorkFiles):
             obj_plane = Aeroplane.to_obj(plane)
             list_search_obg_plane.append(obj_plane)
         return list_search_obg_plane
+
+        def top_geo_altitude(top):
+            """Получение топ самолетов по высоте."""
+
+            current_file = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+            file_path = os.path.join(current_file, 'data', 'list_objects_planes.json')
+
+            with open(file_path, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+
+            list_obj = []
+            list_dict_panes = sorted(data, key=lambda x: x['geo_altitude'], reverse=True)
+            for plane in list_dict_panes:
+                obj = Aeroplane.to_obj(plane)
+                list_obj.append(obj)
+
+        def to_obj(dict_obj):
+            """Перевод из словаря в объект класса Aeroplane."""
+
+            return Aeroplane(dict_obj['country_of_registration'],
+                             dict_obj['call_sign'],
+                             dict_obj['velocity'],
+                             dict_obj['geo_altitude'])
