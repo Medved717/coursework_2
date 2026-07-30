@@ -23,6 +23,7 @@ def user_interaction():
     # Проводим фильтрацию списка по стране регистрации.
     country = input("Введите название страны для фильтрации по стране регистрации: ")
     country_filter = Aeroplane.search_plane_country_of_registration(get_aeroplanes_country_obj, country)
+    print(country_filter)
 
     # Выводим Топ самолетов по высоте полета.
     top_n = int(input("Введите количество самолетов для вывода в топ N по высоте: "))
