@@ -1,16 +1,11 @@
-import os
-import json
-
-
 class Aeroplane:
     country_of_registration: str
     call_sign: str
     velocity: float
     geo_altitude: float
 
-
-    def __init__(self, country_of_registration, call_sign, velocity , geo_altitude):
-        self. country_of_registration = country_of_registration
+    def __init__(self, country_of_registration, call_sign, velocity, geo_altitude):
+        self.country_of_registration = country_of_registration
         self.call_sign = call_sign
         self.velocity = velocity
         self.geo_altitude = geo_altitude
@@ -21,10 +16,16 @@ class Aeroplane:
 
         list_obj = []
         for plane in planes["states"]:
-            list_obj.append(cls(country_of_registration=plane[2].strip() if plane[2] else 'Неизвестно',
-                             call_sign=plane[1].strip() if plane[1] else 'Неизвестно',
-                             velocity=plane[9] if plane[9] is not None else 0.0,
-                             geo_altitude=plane[13] if plane[13] is not None else 0.0))
+            list_obj.append(
+                cls(
+                    country_of_registration=(
+                        plane[2].strip() if plane[2] else "Неизвестно"
+                    ),
+                    call_sign=plane[1].strip() if plane[1] else "Неизвестно",
+                    velocity=plane[9] if plane[9] is not None else 0.0,
+                    geo_altitude=plane[13] if plane[13] is not None else 0.0,
+                )
+            )
         return list_obj
 
     def __repr__(self):
@@ -35,7 +36,11 @@ class Aeroplane:
         """Фильтр самолетов по скорости полета."""
 
         min_speed, max_speed = speeds[0].strip(), speeds[1].strip()
-        list_planes_obj = [plane for plane in data if float(min_speed) <= plane.velocity <= float(max_speed)]
+        list_planes_obj = [
+            plane
+            for plane in data
+            if float(min_speed) <= plane.velocity <= float(max_speed)
+        ]
         return list_planes_obj
 
     def top_geo_altitude(data, top):
@@ -44,7 +49,7 @@ class Aeroplane:
         list_dict_panes = sorted(data, key=lambda x: x.geo_altitude, reverse=True)
 
         if len(list_dict_panes) < int(top):
-            print('Список самолетов меньше указанного топа.')
+            print("Список самолетов меньше указанного топа.")
             return list_dict_panes
         else:
             return list_dict_panes[:top]
@@ -52,16 +57,22 @@ class Aeroplane:
     def to_dict(self):
         """Перевод объекта класса в словарь."""
 
-        return {'country_of_registration':self.country_of_registration,
-                'call_sign': self.call_sign,
-                'velocity': self.velocity,
-                'geo_altitude':self.geo_altitude}
+        return {
+            "country_of_registration": self.country_of_registration,
+            "call_sign": self.call_sign,
+            "velocity": self.velocity,
+            "geo_altitude": self.geo_altitude,
+        }
 
     @staticmethod
     def search_plane_country_of_registration(data, country_of_registration):
         """Ищем самолеты по странам и выводим списки."""
 
-        list_country = [plain for plain in data if plain.country_of_registration == country_of_registration]
+        list_country = [
+            plain
+            for plain in data
+            if plain.country_of_registration == country_of_registration
+        ]
         return list_country
 
     def search_plane_call_sing(data, call_sign):
@@ -89,7 +100,9 @@ class Aeroplane:
         список доступных стран по регистрации самолетов."""
 
         if not data:
-            print('Список стран пуст ввиду отсутствия самолетов по введенным критериям.')
+            print(
+                "Список стран пуст ввиду отсутствия самолетов по введенным критериям."
+            )
             return None
         else:
             list_country = []
