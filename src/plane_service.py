@@ -55,7 +55,26 @@ class Aeroplane:
 
         return self if self.velocity > other.velocity else other
 
+    def speed_filter(min_speed, max_speed):
+        """Фильтр самолетов по скорости полета."""
+
+        current_file = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        file_path = os.path.join(current_file, 'data', 'list_objects_planes.json')
+
+        with open(file_path, 'r', encoding='utf-8') as f:
+            data_planes = json.load(f)
+
+        list_planes_dict = [plane for plane in data_planes if min_speed <= plane['velocity'] <= max_speed]
+        sorted_list = sorted(list_planes_dict, key=lambda x: x['velocity'], reverse=True)
+        list_planes = []
+        for plane in sorted_list:
+            plane_obj = Aeroplane.to_obj(plane)
+            list_planes.append(plane_obj)
+
+        return list_planes
+
     def top_geo_altitude(top):
+        """Получение топ самолетов по высоте."""
 
         current_file = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
         file_path = os.path.join(current_file, 'data', 'list_objects_planes.json')
