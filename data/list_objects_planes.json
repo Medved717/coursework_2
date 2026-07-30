@@ -2,38 +2,38 @@
   {
     "country_of_registration": "Canada",
     "call_sign": "CGBFJ",
-    "velocity": 29.14,
-    "geo_altitude": 281.94
+    "velocity": 26.93,
+    "geo_altitude": 396.24
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "CGBFA",
-    "velocity": 49.48,
+    "velocity": 56.44,
     "geo_altitude": 541.02
   },
   {
     "country_of_registration": "United States",
     "call_sign": "KAP1026",
-    "velocity": 83.88,
-    "geo_altitude": 2788.92
+    "velocity": 82.75,
+    "geo_altitude": 2811.78
   },
   {
     "country_of_registration": "India",
     "call_sign": "AIC101",
-    "velocity": 225.8,
+    "velocity": 232.6,
     "geo_altitude": 12588.24
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW4073",
-    "velocity": 193.77,
+    "velocity": 192.94,
     "geo_altitude": 11551.92
   },
   {
     "country_of_registration": "United States",
     "call_sign": "CTL15",
-    "velocity": 92.92,
-    "geo_altitude": 2887.98
+    "velocity": 91.78,
+    "geo_altitude": 2895.6
   },
   {
     "country_of_registration": "United States",
@@ -44,236 +44,248 @@
   {
     "country_of_registration": "United States",
     "call_sign": "N8080N",
-    "velocity": 84.21,
+    "velocity": 84.93,
     "geo_altitude": 1684.02
   },
   {
     "country_of_registration": "United States",
+    "call_sign": "Неизвестно",
+    "velocity": 201.96,
+    "geo_altitude": 9959.34
+  },
+  {
+    "country_of_registration": "United States",
     "call_sign": "UAL323",
-    "velocity": 212.23,
-    "geo_altitude": 6614.16
+    "velocity": 227.43,
+    "geo_altitude": 8641.08
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL1717",
-    "velocity": 194.04,
-    "geo_altitude": 6217.92
+    "velocity": 202.78,
+    "geo_altitude": 7978.14
   },
   {
     "country_of_registration": "United States",
     "call_sign": "FDX5319",
-    "velocity": 238.71,
-    "geo_altitude": 11460.48
+    "velocity": 241.43,
+    "geo_altitude": 11437.62
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SCJ10",
-    "velocity": 153.84,
-    "geo_altitude": 4312.92
+    "velocity": 166.68,
+    "geo_altitude": 6477
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL2724",
-    "velocity": 0,
-    "geo_altitude": 0.0
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "RKW158J",
-    "velocity": 220.85,
-    "geo_altitude": 6736.08
-  },
-  {
-    "country_of_registration": "Canada",
-    "call_sign": "PRO4800",
-    "velocity": 145.27,
-    "geo_altitude": 7216.14
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "RPA3652",
-    "velocity": 226.16,
-    "geo_altitude": 8823.96
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "ASA563",
-    "velocity": 228.63,
-    "geo_altitude": 11666.22
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "N360GB",
-    "velocity": 215.83,
-    "geo_altitude": 10302.24
-  },
-  {
-    "country_of_registration": "Canada",
-    "call_sign": "ACA1107",
-    "velocity": 212.56,
-    "geo_altitude": 11940.54
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "RPA5684",
     "velocity": 1.8,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
+    "call_sign": "RKW158J",
+    "velocity": 212.37,
+    "geo_altitude": 6743.7
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "PRO4800",
+    "velocity": 141.04,
+    "geo_altitude": 7223.76
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "NDL321",
+    "velocity": 75.23,
+    "geo_altitude": 1470.66
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "RPA3652",
+    "velocity": 248.01,
+    "geo_altitude": 9776.46
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "ASA563",
+    "velocity": 225.24,
+    "geo_altitude": 11658.6
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "N360GB",
+    "velocity": 224.18,
+    "geo_altitude": 6248.4
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "ACA1107",
+    "velocity": 213.91,
+    "geo_altitude": 11948.16
+  },
+  {
+    "country_of_registration": "United States",
     "call_sign": "FDX1710",
-    "velocity": 232.41,
-    "geo_altitude": 7757.16
+    "velocity": 181.68,
+    "geo_altitude": 5532.12
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "AAL2433",
+    "velocity": 5.66,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N565BB",
-    "velocity": 198.85,
-    "geo_altitude": 13746.48
+    "velocity": 191.38,
+    "geo_altitude": 13754.1
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N26CZ",
-    "velocity": 60.71,
-    "geo_altitude": 708.66
+    "velocity": 41.67,
+    "geo_altitude": 441.96
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL1269",
-    "velocity": 237.07,
-    "geo_altitude": 10035.54
+    "velocity": 241.28,
+    "geo_altitude": 11849.1
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL1193",
-    "velocity": 190.27,
-    "geo_altitude": 11536.68
+    "velocity": 195.56,
+    "geo_altitude": 11353.8
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ENY4150",
-    "velocity": 227.03,
-    "geo_altitude": 8831.58
+    "velocity": 226.78,
+    "geo_altitude": 8839.2
   },
   {
     "country_of_registration": "United States",
     "call_sign": "KOW992",
-    "velocity": 225.47,
-    "geo_altitude": 13677.9
+    "velocity": 225.33,
+    "geo_altitude": 13388.34
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "GPD547",
+    "velocity": 104.79,
+    "geo_altitude": 2057.4
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ASA1498",
-    "velocity": 225.29,
-    "geo_altitude": 10888.98
+    "velocity": 203.19,
+    "geo_altitude": 7307.58
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "CFGBT",
-    "velocity": 34.08,
+    "velocity": 25.41,
     "geo_altitude": 0.0
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "UPS5063",
-    "velocity": 241.39,
-    "geo_altitude": 11940.54
   },
   {
     "country_of_registration": "United States",
     "call_sign": "VTE7650",
-    "velocity": 163.02,
-    "geo_altitude": 3436.62
+    "velocity": 131.68,
+    "geo_altitude": 2423.16
   },
   {
     "country_of_registration": "United States",
     "call_sign": "JBU8446",
-    "velocity": 149.02,
-    "geo_altitude": 3436.62
+    "velocity": 111.29,
+    "geo_altitude": 1737.36
   },
   {
     "country_of_registration": "United States",
     "call_sign": "CXK291",
-    "velocity": 46.82,
-    "geo_altitude": 518.16
+    "velocity": 43.27,
+    "geo_altitude": 274.32
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "UPS7891",
+    "velocity": 157.68,
+    "geo_altitude": 4892.04
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL1418",
-    "velocity": 0,
-    "geo_altitude": 0.0
+    "velocity": 89.65,
+    "geo_altitude": 236.22
   },
   {
     "country_of_registration": "United States",
     "call_sign": "JBU816",
-    "velocity": 227.43,
-    "geo_altitude": 11803.38
+    "velocity": 236.19,
+    "geo_altitude": 11765.28
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "CGBRX",
+    "velocity": 73.25,
+    "geo_altitude": 1219.2
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N314RA",
-    "velocity": 44.77,
-    "geo_altitude": 800.1
+    "velocity": 48.44,
+    "geo_altitude": 723.9
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "CGOIN",
-    "velocity": 63.33,
+    "velocity": 62.81,
     "geo_altitude": 1363.98
   },
   {
     "country_of_registration": "United States",
     "call_sign": "PDT6001",
-    "velocity": 132.7,
-    "geo_altitude": 1996.44
+    "velocity": 176.02,
+    "geo_altitude": 4709.16
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL1640",
-    "velocity": 262.92,
-    "geo_altitude": 10035.54
+    "velocity": 260.48,
+    "geo_altitude": 9791.7
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N547JR",
-    "velocity": 62.51,
+    "velocity": 8.75,
     "geo_altitude": 236.22
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL2872",
-    "velocity": 193.67,
-    "geo_altitude": 11544.3
+    "velocity": 200.93,
+    "geo_altitude": 11193.78
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "HYD164",
-    "velocity": 186.27,
-    "geo_altitude": 6568.44
+    "velocity": 186.24,
+    "geo_altitude": 6560.82
   },
   {
     "country_of_registration": "United States",
     "call_sign": "KOW818",
-    "velocity": 242.29,
-    "geo_altitude": 14874.24
-  },
-  {
-    "country_of_registration": "Canada",
-    "call_sign": "HYD162",
-    "velocity": 185.72,
-    "geo_altitude": 4686.3
+    "velocity": 234.67,
+    "geo_altitude": 14889.48
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "MAL7079",
-    "velocity": 211.06,
+    "velocity": 210.71,
     "geo_altitude": 11971.02
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "FDX142",
-    "velocity": 229.52,
-    "geo_altitude": 11559.54
   },
   {
     "country_of_registration": "United States",
@@ -284,217 +296,211 @@
   {
     "country_of_registration": "Canada",
     "call_sign": "CFTLF",
-    "velocity": 75.05,
-    "geo_altitude": 2438.4
+    "velocity": 73.27,
+    "geo_altitude": 1394.46
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL2757",
-    "velocity": 202.34,
-    "geo_altitude": 10919.46
+    "velocity": 206,
+    "geo_altitude": 10660.38
   },
   {
     "country_of_registration": "United States",
     "call_sign": "FDX1717",
-    "velocity": 221.93,
-    "geo_altitude": 11430
+    "velocity": 217.9,
+    "geo_altitude": 11422.38
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ASA122",
-    "velocity": 276.27,
-    "geo_altitude": 12946.38
+    "velocity": 275.8,
+    "geo_altitude": 12954
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "CGHXU",
-    "velocity": 42.6,
-    "geo_altitude": 533.4
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "N7334B",
-    "velocity": 53.62,
-    "geo_altitude": 792.48
+    "velocity": 55.3,
+    "geo_altitude": 525.78
   },
   {
     "country_of_registration": "United States",
     "call_sign": "MXY1018",
-    "velocity": 210.71,
-    "geo_altitude": 10675.62
+    "velocity": 208.85,
+    "geo_altitude": 10683.24
   },
   {
     "country_of_registration": "United Arab Emirates",
     "call_sign": "UAE3MX",
-    "velocity": 254.66,
-    "geo_altitude": 11292.84
+    "velocity": 254.72,
+    "geo_altitude": 11300.46
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AAL2133",
-    "velocity": 151.75,
-    "geo_altitude": 2087.88
-  },
-  {
-    "country_of_registration": "Canada",
-    "call_sign": "UTOW517",
-    "velocity": 2.06,
-    "geo_altitude": 0.0
+    "velocity": 202.92,
+    "geo_altitude": 6111.24
   },
   {
     "country_of_registration": "United States",
     "call_sign": "FDX34",
-    "velocity": 270.28,
-    "geo_altitude": 11772.9
+    "velocity": 269.73,
+    "geo_altitude": 11780.52
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N890DR",
-    "velocity": 90.7,
+    "velocity": 89.29,
     "geo_altitude": 4754.88
   },
   {
     "country_of_registration": "Canada",
-    "call_sign": "SEC205",
-    "velocity": 2.83,
-    "geo_altitude": 0.0
-  },
-  {
-    "country_of_registration": "Canada",
-    "call_sign": "SEC233",
-    "velocity": 4.89,
+    "call_sign": "ETOW875",
+    "velocity": 5.92,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "FDX5161",
-    "velocity": 254.41,
-    "geo_altitude": 10873.74
+    "velocity": 256.62,
+    "geo_altitude": 10904.22
   },
   {
     "country_of_registration": "Canada",
-    "call_sign": "UTOW514",
-    "velocity": 5.4,
+    "call_sign": "UTOW508",
+    "velocity": 6.43,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N6563K",
-    "velocity": 120.26,
-    "geo_altitude": 5455.92
+    "velocity": 119.58,
+    "geo_altitude": 5463.54
+  },
+  {
+    "country_of_registration": "United Arab Emirates",
+    "call_sign": "UAE30Y",
+    "velocity": 219.49,
+    "geo_altitude": 12588.24
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL494",
-    "velocity": 240.81,
-    "geo_altitude": 11551.92
+    "velocity": 241.54,
+    "geo_altitude": 11559.54
   },
   {
     "country_of_registration": "United States",
-    "call_sign": "AMF1548",
-    "velocity": 69.88,
-    "geo_altitude": 1059.18
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "ASA344",
-    "velocity": 218.6,
-    "geo_altitude": 9601.2
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "N8126L",
-    "velocity": 118.42,
-    "geo_altitude": 1219.2
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "UAL1613",
-    "velocity": 210.2,
-    "geo_altitude": 11460.48
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "SKW6465",
-    "velocity": 118.07,
-    "geo_altitude": 1234.44
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "RPA3482",
-    "velocity": 202.81,
-    "geo_altitude": 9387.84
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "SKW4728",
-    "velocity": 7.2,
-    "geo_altitude": 0.0
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "Неизвестно",
+    "call_sign": "N958MG",
     "velocity": 0,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
+    "call_sign": "AMF1548",
+    "velocity": 89.29,
+    "geo_altitude": 2156.46
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "ASA344",
+    "velocity": 220.78,
+    "geo_altitude": 9608.82
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "JRE631",
+    "velocity": 141.54,
+    "geo_altitude": 2872.74
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "N8126L",
+    "velocity": 102.59,
+    "geo_altitude": 906.78
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "UAL1613",
+    "velocity": 204.29,
+    "geo_altitude": 11475.72
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "SKW6465",
+    "velocity": 91.06,
+    "geo_altitude": 815.34
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "RPA3482",
+    "velocity": 227.04,
+    "geo_altitude": 10637.52
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "SKW4728",
+    "velocity": 7.72,
+    "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "00000000",
+    "velocity": 4.37,
+    "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "United States",
     "call_sign": "UAL226",
-    "velocity": 5.4,
-    "geo_altitude": 0.0
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "RPA5677",
-    "velocity": 224.09,
-    "geo_altitude": 9189.72
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "N207AW",
-    "velocity": 0.0,
-    "geo_altitude": 0.0
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "N9782C",
-    "velocity": 63.36,
-    "geo_altitude": 868.68
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "UAL660",
-    "velocity": 12.35,
-    "geo_altitude": 0.0
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "AAL2475",
-    "velocity": 194.45,
-    "geo_altitude": 3848.1
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "ATN3351",
-    "velocity": 244.5,
-    "geo_altitude": 10355.58
-  },
-  {
-    "country_of_registration": "Canada",
-    "call_sign": "WJA343",
     "velocity": 1.54,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
+    "call_sign": "RPA5677",
+    "velocity": 229.08,
+    "geo_altitude": 9174.48
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "N9782C",
+    "velocity": 62.27,
+    "geo_altitude": 845.82
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "UAL660",
+    "velocity": 3.34,
+    "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "AAL2475",
+    "velocity": 237.42,
+    "geo_altitude": 6720.84
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "ATN3351",
+    "velocity": 244.74,
+    "geo_altitude": 10370.82
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "WJA343",
+    "velocity": 0,
+    "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "United States",
     "call_sign": "N851M",
-    "velocity": 247.82,
-    "geo_altitude": 9387.84
+    "velocity": 240.13,
+    "geo_altitude": 11887.2
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL1766",
-    "velocity": 2.06,
+    "velocity": 3.86,
     "geo_altitude": 0.0
   },
   {
@@ -506,206 +512,230 @@
   {
     "country_of_registration": "United States",
     "call_sign": "JBU115",
-    "velocity": 231.74,
-    "geo_altitude": 8983.98
+    "velocity": 225.17,
+    "geo_altitude": 8976.36
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL2988",
-    "velocity": 1.03,
+    "velocity": 12.86,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "QUE40",
-    "velocity": 104.81,
-    "geo_altitude": 3909.06
+    "velocity": 108.04,
+    "geo_altitude": 5425.44
   },
   {
-    "country_of_registration": "Canada",
-    "call_sign": "CGUSM",
-    "velocity": 236.8,
-    "geo_altitude": 12733.02
+    "country_of_registration": "United States",
+    "call_sign": "AAL2007",
+    "velocity": 203.69,
+    "geo_altitude": 4015.74
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N164RD",
-    "velocity": 134.32,
-    "geo_altitude": 4785.36
+    "velocity": 138.97,
+    "geo_altitude": 2865.12
   },
   {
     "country_of_registration": "United States",
     "call_sign": "CKS218",
-    "velocity": 243.68,
-    "geo_altitude": 9646.92
+    "velocity": 242.07,
+    "geo_altitude": 9639.3
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL2752",
-    "velocity": 41.16,
-    "geo_altitude": 0.0
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "DAL2408",
-    "velocity": 231.46,
-    "geo_altitude": 11338.56
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "GTI7143",
-    "velocity": 232.6,
-    "geo_altitude": 12458.7
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "N6364D",
-    "velocity": 35.08,
-    "geo_altitude": 190.5
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "N953TD",
-    "velocity": 149.46,
-    "geo_altitude": 2743.2
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "CXK494",
-    "velocity": 46.77,
-    "geo_altitude": 2186.94
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "GJS4438",
-    "velocity": 144.05,
-    "geo_altitude": 1927.86
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "N12730",
-    "velocity": 78.58,
-    "geo_altitude": 2156.46
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "MVK92",
-    "velocity": 54.14,
-    "geo_altitude": 1234.44
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "GTI811",
-    "velocity": 236.32,
-    "geo_altitude": 12771.12
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "N455LF",
-    "velocity": 51.8,
-    "geo_altitude": 1036.32
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "SKW5690",
-    "velocity": 120.38,
-    "geo_altitude": 1051.56
-  },
-  {
-    "country_of_registration": "Canada",
-    "call_sign": "TOR801",
-    "velocity": 155.98,
-    "geo_altitude": 2727.96
-  },
-  {
-    "country_of_registration": "Canada",
-    "call_sign": "Неизвестно",
-    "velocity": 253.33,
-    "geo_altitude": 10782.3
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "FDX1709",
-    "velocity": 230.76,
-    "geo_altitude": 10858.5
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "JRE95",
-    "velocity": 170.02,
-    "geo_altitude": 12969.24
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "UAL1778",
-    "velocity": 8.75,
-    "geo_altitude": 0.0
-  },
-  {
-    "country_of_registration": "Canada",
-    "call_sign": "Неизвестно",
-    "velocity": 33.68,
-    "geo_altitude": 342.9
-  },
-  {
-    "country_of_registration": "Canada",
-    "call_sign": "PRO4700M",
-    "velocity": 124.58,
-    "geo_altitude": 3413.76
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "AAL3170",
     "velocity": 0,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
+    "call_sign": "DAL2408",
+    "velocity": 229.29,
+    "geo_altitude": 11346.18
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "GTI7143",
+    "velocity": 233.68,
+    "geo_altitude": 12443.46
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "N9784J",
+    "velocity": 40.51,
+    "geo_altitude": 381
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "N953TD",
+    "velocity": 186.61,
+    "geo_altitude": 7086.6
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "CXK494",
+    "velocity": 53.47,
+    "geo_altitude": 2202.18
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "GJS4438",
+    "velocity": 66.37,
+    "geo_altitude": 259.08
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "SWA2464",
+    "velocity": 84.42,
+    "geo_altitude": 548.64
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "CGPWD",
+    "velocity": 47.31,
+    "geo_altitude": 685.8
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "MVK92",
+    "velocity": 66.2,
+    "geo_altitude": 2004.06
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "GTI811",
+    "velocity": 233.33,
+    "geo_altitude": 12786.36
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "N455LF",
+    "velocity": 27.15,
+    "geo_altitude": 952.5
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "CFAFR000",
+    "velocity": 4.37,
+    "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "SKW5690",
+    "velocity": 12.86,
+    "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "TOR801",
+    "velocity": 206.7,
+    "geo_altitude": 7063.74
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "Неизвестно",
+    "velocity": 257.53,
+    "geo_altitude": 10797.54
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "FDX1709",
+    "velocity": 227.17,
+    "geo_altitude": 10850.88
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "JRE95",
+    "velocity": 190.37,
+    "geo_altitude": 13517.88
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "UAL1778",
+    "velocity": 6.69,
+    "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "CFHHA",
+    "velocity": 34.94,
+    "geo_altitude": 358.14
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "PRO4700M",
+    "velocity": 125.52,
+    "geo_altitude": 3413.76
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "AAL3170",
+    "velocity": 144.51,
+    "geo_altitude": 3108.96
+  },
+  {
+    "country_of_registration": "United States",
     "call_sign": "UPS197",
-    "velocity": 280.8,
-    "geo_altitude": 11209.02
+    "velocity": 282.1,
+    "geo_altitude": 11224.26
   },
   {
     "country_of_registration": "China",
     "call_sign": "CPA3294",
-    "velocity": 275.13,
-    "geo_altitude": 11056.62
+    "velocity": 266.66,
+    "geo_altitude": 11041.38
   },
   {
     "country_of_registration": "United States",
     "call_sign": "IRO8430",
-    "velocity": 77.08,
+    "velocity": 76.07,
     "geo_altitude": 2194.56
   },
   {
     "country_of_registration": "United States",
+    "call_sign": "IRO8552",
+    "velocity": 65.68,
+    "geo_altitude": 891.54
+  },
+  {
+    "country_of_registration": "United States",
     "call_sign": "SKW5924",
-    "velocity": 228.02,
-    "geo_altitude": 11216.64
+    "velocity": 232.66,
+    "geo_altitude": 11239.5
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW6464",
-    "velocity": 83.85,
-    "geo_altitude": 594.36
+    "velocity": 6.17,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "WJA800",
-    "velocity": 157.02,
-    "geo_altitude": 3307.08
+    "velocity": 193.7,
+    "geo_altitude": 6515.1
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "WJA627",
-    "velocity": 197.24,
+    "velocity": 200.74,
     "geo_altitude": 11582.4
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "WJA631",
-    "velocity": 213.12,
-    "geo_altitude": 11475.72
+    "velocity": 216.96,
+    "geo_altitude": 11490.96
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "N179DA",
+    "velocity": 53.56,
+    "geo_altitude": 1089.66
   },
   {
     "country_of_registration": "United States",
@@ -716,55 +746,49 @@
   {
     "country_of_registration": "United States",
     "call_sign": "JBU1224",
-    "velocity": 238.21,
-    "geo_altitude": 11132.82
+    "velocity": 245.14,
+    "geo_altitude": 11125.2
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N734RD",
-    "velocity": 50.97,
-    "geo_altitude": 1013.46
+    "velocity": 46.94,
+    "geo_altitude": 1379.22
   },
   {
     "country_of_registration": "United States",
     "call_sign": "CXK189",
-    "velocity": 50.39,
-    "geo_altitude": 922.02
+    "velocity": 46.52,
+    "geo_altitude": 1280.16
   },
   {
     "country_of_registration": "China",
     "call_sign": "CPA3283",
-    "velocity": 255.59,
+    "velocity": 257.81,
     "geo_altitude": 12321.54
   },
   {
     "country_of_registration": "China",
     "call_sign": "CPA2087",
-    "velocity": 244.81,
-    "geo_altitude": 13335
+    "velocity": 245.02,
+    "geo_altitude": 13319.76
   },
   {
     "country_of_registration": "United States",
     "call_sign": "RPA5628",
-    "velocity": 9.26,
-    "geo_altitude": 0.0
+    "velocity": 98.1,
+    "geo_altitude": 632.46
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "PVL7201",
-    "velocity": 99.1,
-    "geo_altitude": 883.92
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "CXK231",
-    "velocity": 34.95,
-    "geo_altitude": 205.74
+    "velocity": 59.93,
+    "geo_altitude": 182.88
   },
   {
     "country_of_registration": "United States",
     "call_sign": "FRG1550",
-    "velocity": 109.05,
+    "velocity": 109.84,
     "geo_altitude": 3154.68
   },
   {
@@ -774,94 +798,70 @@
     "geo_altitude": 0.0
   },
   {
-    "country_of_registration": "Canada",
-    "call_sign": "AKT101",
-    "velocity": 233.26,
-    "geo_altitude": 12184.38
-  },
-  {
     "country_of_registration": "United States",
-    "call_sign": "N920JN",
-    "velocity": 3.09,
-    "geo_altitude": 0.0
+    "call_sign": "Неизвестно",
+    "velocity": 13.28,
+    "geo_altitude": 266.7
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N4707H",
-    "velocity": 42.7,
-    "geo_altitude": 556.26
-  },
-  {
-    "country_of_registration": "Turkey",
-    "call_sign": "THY73G",
-    "velocity": 261.12,
-    "geo_altitude": 11590.02
+    "velocity": 39.8,
+    "geo_altitude": 579.12
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AMF1088",
-    "velocity": 95.65,
-    "geo_altitude": 5067.3
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "AAL2919",
-    "velocity": 4.37,
-    "geo_altitude": 0.0
+    "velocity": 95.28,
+    "geo_altitude": 5074.92
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW6251",
-    "velocity": 235.31,
-    "geo_altitude": 9235.44
+    "velocity": 236.96,
+    "geo_altitude": 8938.26
   },
   {
     "country_of_registration": "United States",
     "call_sign": "CXK679",
-    "velocity": 57.25,
-    "geo_altitude": 487.68
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "DAL2218",
-    "velocity": 0.06,
-    "geo_altitude": 0.0
+    "velocity": 36.38,
+    "geo_altitude": 236.22
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW4738",
-    "velocity": 219.4,
-    "geo_altitude": 11673.84
+    "velocity": 220.02,
+    "geo_altitude": 11681.46
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL1486",
-    "velocity": 167.15,
-    "geo_altitude": 3108.96
+    "velocity": 143.11,
+    "geo_altitude": 1554.48
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AMF1544",
-    "velocity": 96.52,
-    "geo_altitude": 1524
+    "velocity": 85.57,
+    "geo_altitude": 2087.88
   },
   {
     "country_of_registration": "United States",
     "call_sign": "EDV4932",
-    "velocity": 243.99,
-    "geo_altitude": 10424.16
+    "velocity": 247.51,
+    "geo_altitude": 10416.54
   },
   {
     "country_of_registration": "United Kingdom",
     "call_sign": "DHK369",
-    "velocity": 269.19,
-    "geo_altitude": 11033.76
+    "velocity": 262.06,
+    "geo_altitude": 11056.62
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SWA173",
-    "velocity": 235.49,
-    "geo_altitude": 10934.7
+    "velocity": 239.26,
+    "geo_altitude": 10965.18
   },
   {
     "country_of_registration": "United States",
@@ -870,196 +870,202 @@
     "geo_altitude": 0.0
   },
   {
-    "country_of_registration": "Canada",
-    "call_sign": "PVL832",
-    "velocity": 122.29,
-    "geo_altitude": 1798.32
+    "country_of_registration": "United Arab Emirates",
+    "call_sign": "ETD53M",
+    "velocity": 227.19,
+    "geo_altitude": 12031.98
   },
   {
-    "country_of_registration": "United States",
-    "call_sign": "N421CA",
-    "velocity": 45.58,
-    "geo_altitude": 373.38
+    "country_of_registration": "Canada",
+    "call_sign": "PVL832",
+    "velocity": 63.66,
+    "geo_altitude": 198.12
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N7259D",
-    "velocity": 33.12,
-    "geo_altitude": 457.2
+    "velocity": 45.4,
+    "geo_altitude": 640.08
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "SCX3037",
+    "velocity": 7.46,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW4296",
-    "velocity": 255.89,
+    "velocity": 262.01,
     "geo_altitude": 11277.6
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N3003E",
-    "velocity": 50.03,
-    "geo_altitude": 739.14
+    "velocity": 46.3,
+    "geo_altitude": 746.76
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW5699",
-    "velocity": 180.84,
-    "geo_altitude": 3444.24
+    "velocity": 137.38,
+    "geo_altitude": 2072.64
   },
   {
     "country_of_registration": "United States",
     "call_sign": "WIS202",
-    "velocity": 89.59,
-    "geo_altitude": 1889.76
+    "velocity": 89.72,
+    "geo_altitude": 1882.14
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL2059",
-    "velocity": 275.21,
-    "geo_altitude": 12435.84
+    "velocity": 274.3,
+    "geo_altitude": 9913.62
   },
   {
     "country_of_registration": "United States",
     "call_sign": "JBU2229",
-    "velocity": 230.41,
+    "velocity": 230.64,
     "geo_altitude": 10690.86
   },
   {
     "country_of_registration": "United States",
-    "call_sign": "N954SC",
-    "velocity": 47.77,
-    "geo_altitude": 822.96
+    "call_sign": "UAL2333",
+    "velocity": 137.89,
+    "geo_altitude": 2110.74
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "FSY420",
-    "velocity": 236.47,
-    "geo_altitude": 11308.08
+    "velocity": 237.88,
+    "geo_altitude": 11315.7
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW3835",
-    "velocity": 187.15,
-    "geo_altitude": 5966.46
+    "velocity": 209.53,
+    "geo_altitude": 8412.48
   },
   {
     "country_of_registration": "Chile",
     "call_sign": "LAE1828",
-    "velocity": 71,
-    "geo_altitude": 457.2
+    "velocity": 0.64,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "JTL904",
-    "velocity": 208.18,
-    "geo_altitude": 13830.3
+    "velocity": 224.9,
+    "geo_altitude": 11711.94
   },
   {
     "country_of_registration": "United States",
     "call_sign": "FDX2",
-    "velocity": 276.09,
-    "geo_altitude": 11033.76
+    "velocity": 281.55,
+    "geo_altitude": 11049
   },
   {
     "country_of_registration": "United States",
     "call_sign": "FDX6030",
-    "velocity": 243.56,
+    "velocity": 243.33,
     "geo_altitude": 10690.86
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "WSG1601",
-    "velocity": 85.6,
-    "geo_altitude": 4183.38
+    "velocity": 111.96,
+    "geo_altitude": 5097.78
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "CFGMA",
+    "velocity": 48.07,
+    "geo_altitude": 632.46
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "CGOKI",
-    "velocity": 155.65,
+    "velocity": 161.15,
     "geo_altitude": 5036.82
   },
   {
     "country_of_registration": "United States",
     "call_sign": "RPA5793",
-    "velocity": 7.72,
+    "velocity": 5.14,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N8318J",
-    "velocity": 34.61,
-    "geo_altitude": 601.98
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "EDV5284",
-    "velocity": 238.4,
-    "geo_altitude": 7856.22
+    "velocity": 42.73,
+    "geo_altitude": 655.32
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL1163",
-    "velocity": 224.71,
-    "geo_altitude": 11041.38
+    "velocity": 224.82,
+    "geo_altitude": 11026.14
   },
   {
     "country_of_registration": "United Arab Emirates",
     "call_sign": "UAE8ER",
-    "velocity": 252.7,
+    "velocity": 253.96,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N800XM",
-    "velocity": 179.42,
-    "geo_altitude": 12755.88
+    "velocity": 177.56,
+    "geo_altitude": 12771.12
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AAL1354",
-    "velocity": 76.65,
-    "geo_altitude": 640.08
+    "velocity": 5.92,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N959JA",
-    "velocity": 58.68,
-    "geo_altitude": 693.42
+    "velocity": 55.36,
+    "geo_altitude": 502.92
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL859",
-    "velocity": 232.74,
-    "geo_altitude": 9136.38
+    "velocity": 232.62,
+    "geo_altitude": 8983.98
   },
   {
     "country_of_registration": "United States",
     "call_sign": "FDX38",
-    "velocity": 273.1,
-    "geo_altitude": 11163.3
+    "velocity": 273.78,
+    "geo_altitude": 11170.92
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW4313",
-    "velocity": 217.57,
-    "geo_altitude": 6835.14
+    "velocity": 221.32,
+    "geo_altitude": 7749.54
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL2684",
-    "velocity": 178.21,
-    "geo_altitude": 3779.52
+    "velocity": 155.37,
+    "geo_altitude": 2766.06
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "PVL7685",
-    "velocity": 162.07,
-    "geo_altitude": 6903.72
+    "velocity": 171.37,
+    "geo_altitude": 4366.26
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N470MM",
-    "velocity": 143.98,
-    "geo_altitude": 2987.04
+    "velocity": 139.65,
+    "geo_altitude": 1211.58
   },
   {
     "country_of_registration": "United States",
@@ -1070,176 +1076,206 @@
   {
     "country_of_registration": "United States",
     "call_sign": "SKW5611",
-    "velocity": 210.66,
-    "geo_altitude": 7566.66
+    "velocity": 187.66,
+    "geo_altitude": 3909.06
   },
   {
     "country_of_registration": "United States",
     "call_sign": "EJA988",
-    "velocity": 180.41,
-    "geo_altitude": 5212.08
+    "velocity": 210.65,
+    "geo_altitude": 8336.28
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SCX383",
-    "velocity": 0,
+    "velocity": 9.26,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "JBU198",
-    "velocity": 5.14,
+    "velocity": 4.89,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N9YJ",
-    "velocity": 23.96,
-    "geo_altitude": 533.4
+    "velocity": 25,
+    "geo_altitude": 502.92
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "WJA103",
+    "velocity": 0,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "WJA747",
-    "velocity": 195.59,
-    "geo_altitude": 11452.86
+    "velocity": 195.58,
+    "geo_altitude": 11445.24
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N968BS",
-    "velocity": 180.26,
-    "geo_altitude": 4800.6
+    "velocity": 153.07,
+    "geo_altitude": 3162.3
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW5581",
-    "velocity": 138.62,
-    "geo_altitude": 1485.9
+    "velocity": 143.2,
+    "geo_altitude": 2179.32
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SCX213",
-    "velocity": 132.25,
-    "geo_altitude": 1074.42
+    "velocity": 197.76,
+    "geo_altitude": 5036.82
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SWA4566",
-    "velocity": 107.75,
-    "geo_altitude": 1356.36
+    "velocity": 73.87,
+    "geo_altitude": 220.98
   },
   {
     "country_of_registration": "United States",
     "call_sign": "EJA877",
-    "velocity": 233.36,
-    "geo_altitude": 13548.36
+    "velocity": 234.33,
+    "geo_altitude": 13555.98
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N560JJ",
-    "velocity": 174.14,
-    "geo_altitude": 3451.86
+    "velocity": 141.61,
+    "geo_altitude": 2354.58
   },
   {
     "country_of_registration": "China",
     "call_sign": "CAO1055",
-    "velocity": 241.04,
-    "geo_altitude": 7879.08
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "KAP85",
-    "velocity": 65.89,
-    "geo_altitude": 297.18
+    "velocity": 213.55,
+    "geo_altitude": 5440.68
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UPS5495",
-    "velocity": 171.84,
-    "geo_altitude": 6073.14
+    "velocity": 153.7,
+    "geo_altitude": 3177.54
   },
   {
     "country_of_registration": "United Arab Emirates",
     "call_sign": "UAE88F",
-    "velocity": 237.92,
+    "velocity": 241.8,
     "geo_altitude": 12527.28
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N5002T",
-    "velocity": 34.29,
-    "geo_altitude": 373.38
+    "velocity": 45.1,
+    "geo_altitude": 1211.58
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ENY3524",
-    "velocity": 238.65,
-    "geo_altitude": 8877.3
+    "velocity": 237.85,
+    "geo_altitude": 8884.92
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "CGPAW",
-    "velocity": 142.63,
-    "geo_altitude": 2735.58
+    "velocity": 182.56,
+    "geo_altitude": 6423.66
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N739HX",
-    "velocity": 43.02,
-    "geo_altitude": 579.12
+    "velocity": 34.11,
+    "geo_altitude": 304.8
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "ACA256",
-    "velocity": 253.01,
-    "geo_altitude": 10416.54
+    "velocity": 209.78,
+    "geo_altitude": 7101.84
   },
   {
     "country_of_registration": "United States",
     "call_sign": "VJA132",
-    "velocity": 232.02,
-    "geo_altitude": 12557.76
+    "velocity": 237.5,
+    "geo_altitude": 12580.62
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "EDV5208",
+    "velocity": 0,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SWA4197",
-    "velocity": 219.47,
-    "geo_altitude": 11643.36
+    "velocity": 220.69,
+    "geo_altitude": 11658.6
   },
   {
     "country_of_registration": "United States",
     "call_sign": "JRE864",
-    "velocity": 168.98,
-    "geo_altitude": 12169.14
+    "velocity": 184.38,
+    "geo_altitude": 12870.18
   },
   {
     "country_of_registration": "Ethiopia",
     "call_sign": "ETH552",
-    "velocity": 253.22,
-    "geo_altitude": 11300.46
+    "velocity": 251.24,
+    "geo_altitude": 11292.84
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "TRCK578",
-    "velocity": 9.26,
+    "velocity": 10.29,
+    "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "BLUE613",
+    "velocity": 15.43,
+    "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "APT3",
+    "velocity": 1.54,
+    "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "ROU1670",
+    "velocity": 6.43,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "CGFMO",
-    "velocity": 5.14,
-    "geo_altitude": 0.0
+    "velocity": 29.95,
+    "geo_altitude": 617.22
   },
   {
     "country_of_registration": "United States",
     "call_sign": "FRG9899",
-    "velocity": 111.31,
-    "geo_altitude": 3467.1
+    "velocity": 112.64,
+    "geo_altitude": 3451.86
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "EDV5080",
+    "velocity": 222.21,
+    "geo_altitude": 10713.72
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL1641",
-    "velocity": 206.06,
-    "geo_altitude": 11437.62
+    "velocity": 226.45,
+    "geo_altitude": 8336.28
   },
   {
     "country_of_registration": "United States",
@@ -1249,159 +1285,177 @@
   },
   {
     "country_of_registration": "Canada",
+    "call_sign": "TR452",
+    "velocity": 3.6,
+    "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "Canada",
     "call_sign": "CGMRN",
-    "velocity": 96.92,
+    "velocity": 95.06,
     "geo_altitude": 2476.5
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "MTC67",
-    "velocity": 14.4,
+    "velocity": 2.31,
     "geo_altitude": 0.0
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "DAL1247",
-    "velocity": 101.05,
-    "geo_altitude": 731.52
   },
   {
     "country_of_registration": "United States",
     "call_sign": "FDX10",
-    "velocity": 275.12,
-    "geo_altitude": 11772.9
+    "velocity": 274.35,
+    "geo_altitude": 11780.52
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "CGTZB",
-    "velocity": 31.28,
-    "geo_altitude": 480.06
+    "velocity": 16.47,
+    "geo_altitude": 327.66
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW4456",
-    "velocity": 224.91,
-    "geo_altitude": 7924.8
+    "velocity": 219.2,
+    "geo_altitude": 7658.1
   },
   {
     "country_of_registration": "United States",
     "call_sign": "JBU905",
-    "velocity": 230.75,
-    "geo_altitude": 10111.74
+    "velocity": 230.09,
+    "geo_altitude": 10126.98
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N351LL",
-    "velocity": 71.57,
-    "geo_altitude": 632.46
+    "velocity": 80.52,
+    "geo_altitude": 716.28
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "EJA913",
+    "velocity": 228.46,
+    "geo_altitude": 13495.02
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "AVOP216",
-    "velocity": 1.03,
+    "velocity": 9.26,
     "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "EDV5523",
+    "velocity": 191.26,
+    "geo_altitude": 11574.78
   },
   {
     "country_of_registration": "United States",
     "call_sign": "RPA4391",
-    "velocity": 209.49,
-    "geo_altitude": 6522.72
-  },
-  {
-    "country_of_registration": "Canada",
-    "call_sign": "MTC25",
-    "velocity": 15.43,
-    "geo_altitude": 0.0
+    "velocity": 187.02,
+    "geo_altitude": 3870.96
   },
   {
     "country_of_registration": "United States",
     "call_sign": "KAP325",
-    "velocity": 91.59,
+    "velocity": 90.13,
     "geo_altitude": 2476.5
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "TR308",
-    "velocity": 5.4,
+    "velocity": 5.92,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL2834",
-    "velocity": 233.2,
-    "geo_altitude": 8770.62
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "N2ML",
-    "velocity": 84.6,
-    "geo_altitude": 3497.58
+    "velocity": 223.37,
+    "geo_altitude": 10881.36
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "CGMEA",
-    "velocity": 65.99,
-    "geo_altitude": 1219.2
+    "velocity": 44.22,
+    "geo_altitude": 1226.82
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "N850PF",
+    "velocity": 158.39,
+    "geo_altitude": 10020.3
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N53703",
-    "velocity": 52.93,
-    "geo_altitude": 541.02
+    "velocity": 56.19,
+    "geo_altitude": 502.92
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "JBU669",
+    "velocity": 0,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "Неизвестно",
-    "velocity": 55.24,
-    "geo_altitude": 350.52
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "SKW5040",
-    "velocity": 224.49,
-    "geo_altitude": 9326.88
+    "velocity": 60.27,
+    "geo_altitude": 381
   },
   {
     "country_of_registration": "United States",
     "call_sign": "FDX657",
-    "velocity": 128.06,
-    "geo_altitude": 1607.82
+    "velocity": 220.94,
+    "geo_altitude": 5890.26
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL2859",
-    "velocity": 230.47,
-    "geo_altitude": 11018.52
+    "velocity": 233.74,
+    "geo_altitude": 10256.52
   },
   {
     "country_of_registration": "China",
     "call_sign": "CPA3170",
-    "velocity": 277.35,
-    "geo_altitude": 10507.98
+    "velocity": 284.83,
+    "geo_altitude": 10904.22
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N567TW",
-    "velocity": 183.36,
-    "geo_altitude": 12252.96
+    "velocity": 182.68,
+    "geo_altitude": 12260.58
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "DAL2491",
+    "velocity": 188.52,
+    "geo_altitude": 11574.78
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UPS108",
-    "velocity": 234.56,
-    "geo_altitude": 10858.5
+    "velocity": 238.54,
+    "geo_altitude": 10828.02
   },
   {
     "country_of_registration": "United States",
     "call_sign": "JIA5488",
-    "velocity": 242.9,
-    "geo_altitude": 10507.98
+    "velocity": 250.09,
+    "geo_altitude": 10500.36
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL2805",
-    "velocity": 140.45,
-    "geo_altitude": 2202.18
+    "velocity": 123.48,
+    "geo_altitude": 1562.1
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "N445MK",
+    "velocity": 68.34,
+    "geo_altitude": 2613.66
   },
   {
     "country_of_registration": "United States",
@@ -1412,158 +1466,164 @@
   {
     "country_of_registration": "United States",
     "call_sign": "CCQ1580",
-    "velocity": 87.2,
+    "velocity": 84.11,
     "geo_altitude": 2537.46
   },
   {
     "country_of_registration": "Republic of Korea",
     "call_sign": "KAL033",
-    "velocity": 269.13,
-    "geo_altitude": 11986.26
+    "velocity": 265.1,
+    "geo_altitude": 11993.88
   },
   {
     "country_of_registration": "Republic of Korea",
     "call_sign": "KAL035",
-    "velocity": 263.15,
+    "velocity": 261.63,
     "geo_altitude": 10477.5
   },
   {
     "country_of_registration": "United States",
     "call_sign": "EDV5414",
-    "velocity": 240.44,
-    "geo_altitude": 10591.8
+    "velocity": 246.61,
+    "geo_altitude": 10568.94
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AIP1578",
-    "velocity": 105.58,
-    "geo_altitude": 3238.5
+    "velocity": 127.62,
+    "geo_altitude": 3832.86
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL1138",
-    "velocity": 228.56,
-    "geo_altitude": 10896.6
+    "velocity": 235.58,
+    "geo_altitude": 11323.32
   },
   {
     "country_of_registration": "United States",
     "call_sign": "JBU1786",
-    "velocity": 229.28,
-    "geo_altitude": 11620.5
+    "velocity": 221.19,
+    "geo_altitude": 11087.1
   },
   {
     "country_of_registration": "Taiwan",
     "call_sign": "CAL5310",
-    "velocity": 6.43,
+    "velocity": 0.32,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N918Z",
-    "velocity": 92.35,
+    "velocity": 92.08,
     "geo_altitude": 2476.5
   },
   {
-    "country_of_registration": "United States",
-    "call_sign": "FDX156",
-    "velocity": 65.22,
-    "geo_altitude": 182.88
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "SWA1243",
-    "velocity": 72.41,
-    "geo_altitude": 190.5
+    "country_of_registration": "Republic of Korea",
+    "call_sign": "KAL249",
+    "velocity": 274.21,
+    "geo_altitude": 10355.58
   },
   {
     "country_of_registration": "Republic of Korea",
     "call_sign": "KAL193F",
-    "velocity": 271.74,
-    "geo_altitude": 11140.44
+    "velocity": 272.23,
+    "geo_altitude": 11170.92
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "ROU1664",
-    "velocity": 10.8,
+    "velocity": 7.46,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ENY3460",
-    "velocity": 226.88,
-    "geo_altitude": 10683.24
+    "velocity": 226.87,
+    "geo_altitude": 10698.48
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UPS2013",
+    "velocity": 142.72,
+    "geo_altitude": 2423.16
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "FFT2802",
+    "velocity": 69.06,
+    "geo_altitude": 205.74
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "EDV5140",
+    "velocity": 213.11,
+    "geo_altitude": 6652.26
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "VAN409",
+    "velocity": 2.57,
+    "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "SWA1528",
     "velocity": 0,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
-    "call_sign": "FFT2802",
-    "velocity": 90.55,
-    "geo_altitude": 906.78
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "EDV5140",
-    "velocity": 179.17,
-    "geo_altitude": 5257.8
-  },
-  {
-    "country_of_registration": "Canada",
-    "call_sign": "VAN409",
-    "velocity": 6.17,
-    "geo_altitude": 0.0
+    "call_sign": "EJA961",
+    "velocity": 231,
+    "geo_altitude": 9433.56
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW5293",
-    "velocity": 179.12,
-    "geo_altitude": 3779.52
+    "velocity": 153.82,
+    "geo_altitude": 2895.6
   },
   {
     "country_of_registration": "United States",
     "call_sign": "FDX1415",
-    "velocity": 213.79,
-    "geo_altitude": 6781.8
+    "velocity": 161.02,
+    "geo_altitude": 3223.26
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N5623E",
-    "velocity": 53.86,
-    "geo_altitude": 1066.8
+    "velocity": 53.23,
+    "geo_altitude": 1318.26
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "TR852",
+    "velocity": 3.6,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "CGMPB",
-    "velocity": 113.87,
+    "velocity": 113.14,
     "geo_altitude": 8267.7
   },
   {
     "country_of_registration": "Canada",
-    "call_sign": "BUS823",
-    "velocity": 10.29,
+    "call_sign": "Неизвестно",
+    "velocity": 2.06,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW3697",
-    "velocity": 229.56,
-    "geo_altitude": 11407.14
-  },
-  {
-    "country_of_registration": "Canada",
-    "call_sign": "TR441",
-    "velocity": 1.29,
-    "geo_altitude": 0.0
+    "velocity": 224.44,
+    "geo_altitude": 11536.68
   },
   {
     "country_of_registration": "United States",
     "call_sign": "IRO8433",
-    "velocity": 62.78,
-    "geo_altitude": 990.6
+    "velocity": 82.85,
+    "geo_altitude": 1874.52
   },
   {
     "country_of_registration": "United States",
@@ -1573,591 +1633,663 @@
   },
   {
     "country_of_registration": "United States",
+    "call_sign": "DAL2848",
+    "velocity": 211.44,
+    "geo_altitude": 12100.56
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "BLUE344",
+    "velocity": 2.06,
+    "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "United States",
     "call_sign": "SCX3080",
-    "velocity": 267.19,
-    "geo_altitude": 10629.9
+    "velocity": 267.74,
+    "geo_altitude": 10622.28
   },
   {
     "country_of_registration": "United States",
     "call_sign": "GTI8319",
-    "velocity": 223.62,
-    "geo_altitude": 11894.82
+    "velocity": 223.02,
+    "geo_altitude": 11879.58
   },
   {
     "country_of_registration": "United States",
     "call_sign": "IRO8587",
-    "velocity": 72.63,
-    "geo_altitude": 2171.7
+    "velocity": 79.33,
+    "geo_altitude": 1767.84
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "BUS822",
+    "velocity": 6.17,
+    "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "Ethiopia",
+    "call_sign": "ETH574",
+    "velocity": 277.06,
+    "geo_altitude": 12687.3
   },
   {
     "country_of_registration": "United States",
     "call_sign": "JBU493",
-    "velocity": 230.64,
-    "geo_altitude": 11414.76
+    "velocity": 226.1,
+    "geo_altitude": 11430
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N414JH",
-    "velocity": 82.22,
+    "velocity": 83.9,
     "geo_altitude": 1546.86
   },
   {
     "country_of_registration": "United States",
     "call_sign": "IRO8393",
-    "velocity": 79.3,
-    "geo_altitude": 2186.94
+    "velocity": 85.86,
+    "geo_altitude": 2034.54
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ENY4018",
-    "velocity": 173.05,
-    "geo_altitude": 4061.46
+    "velocity": 185.91,
+    "geo_altitude": 5082.54
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL966",
-    "velocity": 210.34,
-    "geo_altitude": 10965.18
+    "velocity": 208.15,
+    "geo_altitude": 10980.42
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N816RA",
-    "velocity": 8.23,
+    "velocity": 0,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW3914",
-    "velocity": 214.27,
-    "geo_altitude": 9220.2
+    "velocity": 253.69,
+    "geo_altitude": 10378.44
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "Неизвестно",
+    "velocity": 40.75,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL1487",
-    "velocity": 92.74,
-    "geo_altitude": 929.64
+    "velocity": 188.41,
+    "geo_altitude": 3848.1
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL2137",
-    "velocity": 6.69,
+    "velocity": 0,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "FDX6014",
-    "velocity": 249.39,
-    "geo_altitude": 10728.96
+    "velocity": 252.22,
+    "geo_altitude": 10736.58
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL2672",
-    "velocity": 184.55,
-    "geo_altitude": 4762.5
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "EDV4995",
-    "velocity": 6.17,
-    "geo_altitude": 0.0
+    "velocity": 150.85,
+    "geo_altitude": 2369.82
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL1186",
-    "velocity": 234.93,
-    "geo_altitude": 11727.18
+    "velocity": 231.17,
+    "geo_altitude": 11704.32
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "FLE525",
-    "velocity": 197.36,
+    "velocity": 196.79,
     "geo_altitude": 11490.96
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AAL76",
-    "velocity": 220.23,
-    "geo_altitude": 10919.46
+    "velocity": 216.08,
+    "geo_altitude": 10934.7
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N576ME",
-    "velocity": 65.55,
-    "geo_altitude": 609.6
+    "velocity": 69.43,
+    "geo_altitude": 777.24
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "CJT918",
-    "velocity": 207.63,
+    "velocity": 211.47,
     "geo_altitude": 12260.58
   },
   {
     "country_of_registration": "United States",
     "call_sign": "RPA4714",
-    "velocity": 187.63,
-    "geo_altitude": 5387.34
+    "velocity": 146.42,
+    "geo_altitude": 3200.4
   },
   {
     "country_of_registration": "United States",
     "call_sign": "IRO8559",
-    "velocity": 75.62,
-    "geo_altitude": 1859.28
+    "velocity": 82.58,
+    "geo_altitude": 1874.52
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AAL2434",
-    "velocity": 189.64,
-    "geo_altitude": 5173.98
+    "velocity": 216.38,
+    "geo_altitude": 8016.24
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "CGTDO",
-    "velocity": 36.89,
-    "geo_altitude": 1226.82
+    "velocity": 52.93,
+    "geo_altitude": 1371.6
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "TSC538",
-    "velocity": 241.32,
-    "geo_altitude": 10683.24
+    "velocity": 242.72,
+    "geo_altitude": 10698.48
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AAL533",
-    "velocity": 241.45,
-    "geo_altitude": 11330.94
+    "velocity": 247.85,
+    "geo_altitude": 11391.9
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW5701",
-    "velocity": 176.47,
-    "geo_altitude": 5996.94
+    "velocity": 196.04,
+    "geo_altitude": 7109.46
   },
   {
     "country_of_registration": "United States",
     "call_sign": "JBU1206",
-    "velocity": 235.13,
-    "geo_altitude": 12329.16
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "DAL1274",
-    "velocity": 0.06,
-    "geo_altitude": 0.0
+    "velocity": 232.6,
+    "geo_altitude": 12321.54
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N503WA",
-    "velocity": 44.78,
-    "geo_altitude": 1691.64
+    "velocity": 50.63,
+    "geo_altitude": 1668.78
   },
   {
-    "country_of_registration": "Canada",
-    "call_sign": "TOW 914",
-    "velocity": 0.06,
-    "geo_altitude": 0.0
+    "country_of_registration": "United States",
+    "call_sign": "N4995F",
+    "velocity": 61.88,
+    "geo_altitude": 1424.94
   },
   {
     "country_of_registration": "United States",
     "call_sign": "00000000",
-    "velocity": 118.58,
-    "geo_altitude": 906.78
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "N9124F",
-    "velocity": 79.96,
-    "geo_altitude": 403.86
+    "velocity": 115.79,
+    "geo_altitude": 899.16
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "WLD61",
-    "velocity": 7.72,
+    "velocity": 1.54,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "CGLMM",
-    "velocity": 251.22,
-    "geo_altitude": 12862.56
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "GTI4316",
-    "velocity": 224.8,
-    "geo_altitude": 11376.66
-  },
-  {
-    "country_of_registration": "Canada",
-    "call_sign": "CGLKT",
-    "velocity": 57.44,
-    "geo_altitude": 297.18
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "UAL834",
-    "velocity": 253.58,
-    "geo_altitude": 11658.6
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "UPS2133",
-    "velocity": 248.83,
-    "geo_altitude": 8785.86
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "DAL2913",
-    "velocity": 190.01,
-    "geo_altitude": 6233.16
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "N346BA",
-    "velocity": 142.48,
-    "geo_altitude": 8374.38
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "SWA1182",
-    "velocity": 146.63,
-    "geo_altitude": 1562.1
-  },
-  {
-    "country_of_registration": "Canada",
-    "call_sign": "PTR2118",
-    "velocity": 103.09,
-    "geo_altitude": 922.02
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "N9483Y",
-    "velocity": 84.01,
-    "geo_altitude": 1531.62
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "N716WT",
-    "velocity": 92.74,
-    "geo_altitude": 3566.16
-  },
-  {
-    "country_of_registration": "Canada",
-    "call_sign": "ACA400",
-    "velocity": 182.5,
-    "geo_altitude": 7444.74
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "N126TS",
-    "velocity": 133.08,
-    "geo_altitude": 2385.06
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "SKW6363",
-    "velocity": 137.2,
-    "geo_altitude": 2087.88
-  },
-  {
-    "country_of_registration": "Canada",
-    "call_sign": "ASP595",
-    "velocity": 222.13,
+    "velocity": 248.45,
     "geo_altitude": 12870.18
   },
   {
     "country_of_registration": "United States",
+    "call_sign": "GTI4316",
+    "velocity": 232.6,
+    "geo_altitude": 11711.94
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "CGLKT",
+    "velocity": 62.72,
+    "geo_altitude": 533.4
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "UAL834",
+    "velocity": 264.24,
+    "geo_altitude": 11681.46
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "UPS2133",
+    "velocity": 250.43,
+    "geo_altitude": 11026.14
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "DAL2913",
+    "velocity": 158.3,
+    "geo_altitude": 3116.58
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "N346BA",
+    "velocity": 141.71,
+    "geo_altitude": 8382
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "SWA1182",
+    "velocity": 191.92,
+    "geo_altitude": 5257.8
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "PTR2118",
+    "velocity": 68.54,
+    "geo_altitude": 525.78
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "N9483Y",
+    "velocity": 86.27,
+    "geo_altitude": 1531.62
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "PTR2210",
+    "velocity": 119.98,
+    "geo_altitude": 1676.4
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "N716WT",
+    "velocity": 92.72,
+    "geo_altitude": 3573.78
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "ACA400",
+    "velocity": 167.66,
+    "geo_altitude": 5372.1
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "Неизвестно",
+    "velocity": 275.05,
+    "geo_altitude": 10325.1
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "Неизвестно",
+    "velocity": 21.61,
+    "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "N126TS",
+    "velocity": 75.12,
+    "geo_altitude": 899.16
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "Неизвестно",
+    "velocity": 2.57,
+    "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "SKW6363",
+    "velocity": 198.03,
+    "geo_altitude": 5448.3
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "ASP595",
+    "velocity": 219.62,
+    "geo_altitude": 12862.56
+  },
+  {
+    "country_of_registration": "United States",
     "call_sign": "DAL2808",
-    "velocity": 231.71,
-    "geo_altitude": 8092.44
+    "velocity": 222.64,
+    "geo_altitude": 10447.02
   },
   {
     "country_of_registration": "United States",
     "call_sign": "CTL10",
-    "velocity": 98.72,
-    "geo_altitude": 2080.26
+    "velocity": 95.04,
+    "geo_altitude": 1676.4
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ENY3704",
-    "velocity": 52.47,
-    "geo_altitude": 243.84
+    "velocity": 8.75,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "SAF205",
-    "velocity": 4.12,
+    "velocity": 9.77,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "Неизвестно",
-    "velocity": 14.4,
+    "velocity": 4.37,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "Republic of Korea",
     "call_sign": "KAL091",
-    "velocity": 283.41,
-    "geo_altitude": 11666.22
+    "velocity": 288.35,
+    "geo_altitude": 11673.84
   },
   {
     "country_of_registration": "Ethiopia",
     "call_sign": "ETH500",
-    "velocity": 254.04,
+    "velocity": 258.48,
     "geo_altitude": 11917.68
   },
   {
     "country_of_registration": "United States",
     "call_sign": "IRO8604",
-    "velocity": 72.88,
-    "geo_altitude": 2811.78
-  },
-  {
-    "country_of_registration": "Canada",
-    "call_sign": "SPRD777",
-    "velocity": 1.29,
-    "geo_altitude": 0.0
+    "velocity": 73.62,
+    "geo_altitude": 2819.4
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "ACA964",
-    "velocity": 183.28,
-    "geo_altitude": 3520.44
+    "velocity": 208.77,
+    "geo_altitude": 6309.36
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL1008",
-    "velocity": 71.51,
-    "geo_altitude": 266.7
+    "velocity": 2.06,
+    "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "DAL384",
+    "velocity": 0,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "WJA539",
-    "velocity": 192.65,
-    "geo_altitude": 11407.14
+    "velocity": 191.36,
+    "geo_altitude": 11399.52
   },
   {
     "country_of_registration": "Republic of Korea",
     "call_sign": "KAL037",
-    "velocity": 264.29,
-    "geo_altitude": 11079.48
+    "velocity": 262.07,
+    "geo_altitude": 11087.1
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL1461",
-    "velocity": 252.24,
-    "geo_altitude": 10584.18
+    "velocity": 252.29,
+    "geo_altitude": 10561.32
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ASA409",
-    "velocity": 214.94,
-    "geo_altitude": 10279.38
+    "velocity": 216.62,
+    "geo_altitude": 10287
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "WN16",
+    "velocity": 78.71,
+    "geo_altitude": 1074.42
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N12666",
-    "velocity": 81.5,
+    "velocity": 76.76,
     "geo_altitude": 2514.6
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW3984",
-    "velocity": 7.2,
-    "geo_altitude": 0.0
+    "velocity": 143.39,
+    "geo_altitude": 2087.88
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "WJA761",
-    "velocity": 231.21,
-    "geo_altitude": 11338.56
+    "velocity": 235.8,
+    "geo_altitude": 11315.7
   },
   {
     "country_of_registration": "United States",
     "call_sign": "CSB585",
-    "velocity": 173.28,
-    "geo_altitude": 3535.68
+    "velocity": 120.78,
+    "geo_altitude": 1562.1
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "CFFUP",
+    "velocity": 35.83,
+    "geo_altitude": 579.12
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ASA459",
-    "velocity": 236.1,
-    "geo_altitude": 9494.52
+    "velocity": 236.24,
+    "geo_altitude": 10050.78
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N1267T",
-    "velocity": 51.06,
-    "geo_altitude": 1066.8
+    "velocity": 52.02,
+    "geo_altitude": 1059.18
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N326CS",
-    "velocity": 94.56,
-    "geo_altitude": 1005.84
+    "velocity": 102.52,
+    "geo_altitude": 3223.26
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SCX355",
-    "velocity": 255.55,
-    "geo_altitude": 11940.54
+    "velocity": 256.62,
+    "geo_altitude": 11948.16
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N2530B",
-    "velocity": 59.18,
-    "geo_altitude": 335.28
+    "velocity": 60.76,
+    "geo_altitude": 320.04
   },
   {
     "country_of_registration": "United States",
-    "call_sign": "ENY3445",
-    "velocity": 0.51,
-    "geo_altitude": 0.0
+    "call_sign": "N732AP",
+    "velocity": 94.18,
+    "geo_altitude": 1706.88
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N131JR",
-    "velocity": 151.74,
-    "geo_altitude": 1859.28
+    "velocity": 128.79,
+    "geo_altitude": 1379.22
   },
   {
     "country_of_registration": "United States",
     "call_sign": "CXK653",
-    "velocity": 33.68,
-    "geo_altitude": 906.78
+    "velocity": 45.76,
+    "geo_altitude": 1059.18
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "AMF1590",
+    "velocity": 51.66,
+    "geo_altitude": 487.68
   },
   {
     "country_of_registration": "Republic of Korea",
     "call_sign": "AAR222",
-    "velocity": 287.97,
+    "velocity": 282.14,
     "geo_altitude": 12512.04
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UPS492",
-    "velocity": 236.94,
-    "geo_altitude": 10279.38
+    "velocity": 238.36,
+    "geo_altitude": 10287
   },
   {
     "country_of_registration": "United States",
-    "call_sign": "Неизвестно",
-    "velocity": 53.03,
-    "geo_altitude": 723.9
+    "call_sign": "N940RM",
+    "velocity": 51.54,
+    "geo_altitude": 1150.62
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N342ZK",
-    "velocity": 128.63,
-    "geo_altitude": 1706.88
+    "velocity": 199.38,
+    "geo_altitude": 6027.42
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N390PM",
-    "velocity": 87.38,
-    "geo_altitude": 662.94
+    "velocity": 71.11,
+    "geo_altitude": 228.6
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ASA311",
-    "velocity": 224.94,
-    "geo_altitude": 9563.1
+    "velocity": 224.22,
+    "geo_altitude": 9578.34
   },
   {
     "country_of_registration": "United States",
     "call_sign": "JIA5679",
-    "velocity": 201.72,
-    "geo_altitude": 6385.56
+    "velocity": 234.48,
+    "geo_altitude": 8046.72
   },
   {
     "country_of_registration": "United States",
     "call_sign": "EJA835",
-    "velocity": 74.37,
-    "geo_altitude": 563.88
+    "velocity": 7.72,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AAL3022",
-    "velocity": 228.26,
-    "geo_altitude": 7178.04
+    "velocity": 239.36,
+    "geo_altitude": 10165.08
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "CGHCE",
-    "velocity": 99.16,
+    "velocity": 98.24,
     "geo_altitude": 3406.14
   },
   {
     "country_of_registration": "United States",
+    "call_sign": "SWA4031",
+    "velocity": 66.97,
+    "geo_altitude": 190.5
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "GLR2782",
+    "velocity": 99.91,
+    "geo_altitude": 2773.68
+  },
+  {
+    "country_of_registration": "United States",
     "call_sign": "CKS961",
-    "velocity": 290.35,
-    "geo_altitude": 11186.16
+    "velocity": 295.36,
+    "geo_altitude": 11193.78
   },
   {
     "country_of_registration": "United States",
     "call_sign": "EJA327",
-    "velocity": 143.67,
-    "geo_altitude": 2392.68
+    "velocity": 87.3,
+    "geo_altitude": 754.38
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N804CT",
-    "velocity": 62.35,
+    "velocity": 66.21,
     "geo_altitude": 266.7
   },
   {
     "country_of_registration": "United States",
+    "call_sign": "UPS2029",
+    "velocity": 148.06,
+    "geo_altitude": 2308.86
+  },
+  {
+    "country_of_registration": "United States",
     "call_sign": "WIS1576",
-    "velocity": 90.08,
-    "geo_altitude": 1874.52
+    "velocity": 87.71,
+    "geo_altitude": 1889.76
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N34717",
-    "velocity": 54.97,
-    "geo_altitude": 571.5
+    "velocity": 52.16,
+    "geo_altitude": 579.12
   },
   {
     "country_of_registration": "United States",
     "call_sign": "CNS303",
-    "velocity": 129.04,
-    "geo_altitude": 7566.66
+    "velocity": 128.39,
+    "geo_altitude": 7574.28
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N601NT",
-    "velocity": 102.11,
+    "velocity": 103.96,
     "geo_altitude": 2819.4
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ABX3123",
-    "velocity": 236.13,
-    "geo_altitude": 11955.78
+    "velocity": 229.98,
+    "geo_altitude": 11971.02
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UPS76",
-    "velocity": 229.88,
-    "geo_altitude": 12588.24
+    "velocity": 230.23,
+    "geo_altitude": 12573
   },
   {
     "country_of_registration": "United States",
     "call_sign": "FDX1767",
-    "velocity": 208.71,
-    "geo_altitude": 5006.34
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "N804FA",
-    "velocity": 57.77,
-    "geo_altitude": 381
+    "velocity": 215.32,
+    "geo_altitude": 5341.62
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SWA3118",
-    "velocity": 153.52,
-    "geo_altitude": 2941.32
+    "velocity": 204.44,
+    "geo_altitude": 7132.32
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "WMU64",
+    "velocity": 60.02,
+    "geo_altitude": 441.96
   },
   {
     "country_of_registration": "United States",
@@ -2168,56 +2300,74 @@
   {
     "country_of_registration": "United States",
     "call_sign": "AMF1690",
-    "velocity": 82.67,
+    "velocity": 81.3,
     "geo_altitude": 5745.48
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N270RX",
-    "velocity": 50.43,
-    "geo_altitude": 624.84
+    "velocity": 42.7,
+    "geo_altitude": 251.46
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "DAL2958",
+    "velocity": 0,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N8853J",
-    "velocity": 63.73,
+    "velocity": 61.23,
     "geo_altitude": 1371.6
   },
   {
     "country_of_registration": "United States",
     "call_sign": "JBU1034",
-    "velocity": 249.48,
-    "geo_altitude": 11064.24
+    "velocity": 243.46,
+    "geo_altitude": 11049
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL2225",
-    "velocity": 121.02,
-    "geo_altitude": 1234.44
+    "velocity": 73.05,
+    "geo_altitude": 449.58
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW5829",
-    "velocity": 200.34,
-    "geo_altitude": 10614.66
+    "velocity": 211.24,
+    "geo_altitude": 10668
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "ENY3521",
+    "velocity": 219.15,
+    "geo_altitude": 10698.48
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ASA259",
-    "velocity": 253.98,
+    "velocity": 253.83,
     "geo_altitude": 11681.46
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "ACA443",
-    "velocity": 76.07,
-    "geo_altitude": 236.22
+    "velocity": 7.46,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "MVK33",
-    "velocity": 48.23,
-    "geo_altitude": 1531.62
+    "velocity": 52.55,
+    "geo_altitude": 1516.38
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "UPS5143",
+    "velocity": 171.2,
+    "geo_altitude": 3909.06
   },
   {
     "country_of_registration": "United States",
@@ -2228,110 +2378,110 @@
   {
     "country_of_registration": "United States",
     "call_sign": "N890CL",
-    "velocity": 245.56,
-    "geo_altitude": 12992.1
+    "velocity": 244.47,
+    "geo_altitude": 12961.62
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SCX1981",
-    "velocity": 214.98,
-    "geo_altitude": 6682.74
+    "velocity": 246.24,
+    "geo_altitude": 9265.92
   },
   {
     "country_of_registration": "United States",
     "call_sign": "MWT100",
-    "velocity": 94.03,
-    "geo_altitude": 5257.8
+    "velocity": 106.73,
+    "geo_altitude": 6416.04
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "WJA380",
-    "velocity": 266.19,
-    "geo_altitude": 11788.14
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "AA0061",
-    "velocity": 4.37,
-    "geo_altitude": 0.0
+    "velocity": 267.4,
+    "geo_altitude": 11795.76
   },
   {
     "country_of_registration": "United Kingdom",
     "call_sign": "DHK007",
-    "velocity": 246.69,
+    "velocity": 248.89,
     "geo_altitude": 10988.04
   },
   {
     "country_of_registration": "United States",
-    "call_sign": "UAL3011",
-    "velocity": 242.05,
-    "geo_altitude": 11201.4
-  },
-  {
-    "country_of_registration": "United States",
     "call_sign": "SKW6338",
-    "velocity": 10.8,
-    "geo_altitude": 0.0
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "SWA3121",
-    "velocity": 1.8,
+    "velocity": 8.23,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AAL2484",
-    "velocity": 5.92,
-    "geo_altitude": 0.0
+    "velocity": 145.55,
+    "geo_altitude": 1828.8
   },
   {
     "country_of_registration": "United States",
     "call_sign": "RPA4642",
-    "velocity": 61.18,
-    "geo_altitude": -22.86
+    "velocity": 6.94,
+    "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "DAL2783",
+    "velocity": 1.8,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N122WD",
-    "velocity": 133.57,
+    "velocity": 135.84,
     "geo_altitude": 8183.88
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N9135P",
-    "velocity": 77.05,
+    "velocity": 80.5,
     "geo_altitude": 1356.36
   },
   {
     "country_of_registration": "United States",
+    "call_sign": "AMF1558",
+    "velocity": 77.34,
+    "geo_altitude": 1577.34
+  },
+  {
+    "country_of_registration": "United States",
     "call_sign": "N610CC",
-    "velocity": 56.82,
-    "geo_altitude": 1127.76
+    "velocity": 31.8,
+    "geo_altitude": 457.2
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL2441",
-    "velocity": 238.1,
-    "geo_altitude": 10866.12
+    "velocity": 236.45,
+    "geo_altitude": 10888.98
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ASA221",
-    "velocity": 175.84,
-    "geo_altitude": 4716.78
+    "velocity": 139.42,
+    "geo_altitude": 2461.26
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ASA1543",
-    "velocity": 262.98,
-    "geo_altitude": 11849.1
+    "velocity": 265.72,
+    "geo_altitude": 11856.72
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N1UL",
-    "velocity": 94.89,
-    "geo_altitude": 891.54
+    "velocity": 56.11,
+    "geo_altitude": 373.38
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "TR540",
+    "velocity": 6.43,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
@@ -2342,20 +2492,20 @@
   {
     "country_of_registration": "United Kingdom",
     "call_sign": "BAW4LV",
-    "velocity": 277.18,
-    "geo_altitude": 12283.44
+    "velocity": 270.59,
+    "geo_altitude": 12268.2
   },
   {
     "country_of_registration": "United States",
     "call_sign": "CKS915",
-    "velocity": 279.22,
-    "geo_altitude": 11132.82
+    "velocity": 258.79,
+    "geo_altitude": 11795.76
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N39PL",
-    "velocity": 124.92,
-    "geo_altitude": 7726.68
+    "velocity": 126.42,
+    "geo_altitude": 7734.3
   },
   {
     "country_of_registration": "Canada",
@@ -2366,224 +2516,230 @@
   {
     "country_of_registration": "Canada",
     "call_sign": "ACA295",
-    "velocity": 201.12,
-    "geo_altitude": 11384.28
+    "velocity": 204,
+    "geo_altitude": 11369.04
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "ASP655",
-    "velocity": 208.74,
-    "geo_altitude": 13571.22
+    "velocity": 209.02,
+    "geo_altitude": 13586.46
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL2617",
-    "velocity": 225.36,
-    "geo_altitude": 8305.8
+    "velocity": 247.83,
+    "geo_altitude": 10386.06
   },
   {
     "country_of_registration": "United States",
-    "call_sign": "SKW5935",
-    "velocity": 238.92,
-    "geo_altitude": 10233.66
+    "call_sign": "N94KK",
+    "velocity": 65.51,
+    "geo_altitude": 609.6
   },
   {
     "country_of_registration": "United States",
-    "call_sign": "SWA869",
-    "velocity": 10.8,
+    "call_sign": "Неизвестно",
+    "velocity": 78.92,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N25MG",
-    "velocity": 122.08,
-    "geo_altitude": 1828.8
+    "velocity": 93.12,
+    "geo_altitude": 990.6
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "WN27",
-    "velocity": 103.61,
-    "geo_altitude": 6035.04
+    "velocity": 106.82,
+    "geo_altitude": 6019.8
   },
   {
     "country_of_registration": "United States",
     "call_sign": "RPA5663",
-    "velocity": 117.28,
-    "geo_altitude": 1219.2
+    "velocity": 60.7,
+    "geo_altitude": 502.92
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AMF1022",
-    "velocity": 102.59,
-    "geo_altitude": 5067.3
+    "velocity": 102.43,
+    "geo_altitude": 5074.92
   },
   {
     "country_of_registration": "United States",
     "call_sign": "RPA5648",
-    "velocity": 128.43,
-    "geo_altitude": 2804.16
+    "velocity": 85.75,
+    "geo_altitude": 1074.42
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N240CA",
-    "velocity": 82.27,
-    "geo_altitude": 3489.96
+    "velocity": 83,
+    "geo_altitude": 3497.58
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AAL1195",
-    "velocity": 216.81,
-    "geo_altitude": 11399.52
+    "velocity": 211.35,
+    "geo_altitude": 11132.82
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "CGGTJ",
-    "velocity": 25.54,
-    "geo_altitude": 419.1
+    "velocity": 31.33,
+    "geo_altitude": 518.16
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ASA98",
-    "velocity": 226.01,
-    "geo_altitude": 10096.5
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "SWA1008",
-    "velocity": 0.64,
-    "geo_altitude": 0.0
+    "velocity": 227.11,
+    "geo_altitude": 10104.12
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AAL1628",
-    "velocity": 0,
+    "velocity": 0.39,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL2303",
-    "velocity": 234.57,
-    "geo_altitude": 8305.8
+    "velocity": 227.82,
+    "geo_altitude": 7680.96
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "CGNUE",
-    "velocity": 44.59,
-    "geo_altitude": 1181.1
+    "velocity": 58.95,
+    "geo_altitude": 1356.36
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ASA1630",
-    "velocity": 232.53,
-    "geo_altitude": 10142.22
+    "velocity": 228.04,
+    "geo_altitude": 10157.46
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL2416",
-    "velocity": 270.28,
-    "geo_altitude": 11277.6
+    "velocity": 268.53,
+    "geo_altitude": 11254.74
   },
   {
     "country_of_registration": "United States",
     "call_sign": "IRO8312",
-    "velocity": 78.77,
+    "velocity": 79.51,
     "geo_altitude": 2179.32
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SCX281",
-    "velocity": 212.49,
+    "velocity": 213.78,
     "geo_altitude": 11597.64
   },
   {
     "country_of_registration": "Qatar",
     "call_sign": "QTR24V",
-    "velocity": 253.13,
+    "velocity": 255.29,
     "geo_altitude": 12565.38
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW3946",
-    "velocity": 237.29,
-    "geo_altitude": 11323.32
+    "velocity": 234.81,
+    "geo_altitude": 11330.94
   },
   {
     "country_of_registration": "Republic of Korea",
     "call_sign": "KAL077",
-    "velocity": 285.7,
-    "geo_altitude": 12230.1
+    "velocity": 287.74,
+    "geo_altitude": 12237.72
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AAL894",
-    "velocity": 263.04,
-    "geo_altitude": 11277.6
+    "velocity": 259.64,
+    "geo_altitude": 11262.36
   },
   {
     "country_of_registration": "United States",
     "call_sign": "RPA3435",
-    "velocity": 102.95,
-    "geo_altitude": 1242.06
+    "velocity": 179.99,
+    "geo_altitude": 3817.62
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "ACA773",
-    "velocity": 0.06,
+    "velocity": 0.19,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AAL3267",
-    "velocity": 221.96,
-    "geo_altitude": 11361.42
+    "velocity": 220.92,
+    "geo_altitude": 11376.66
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "SWA1002",
+    "velocity": 220.21,
+    "geo_altitude": 10492.74
   },
   {
     "country_of_registration": "United States",
     "call_sign": "LXJ511",
-    "velocity": 149.03,
-    "geo_altitude": 3444.24
+    "velocity": 119.04,
+    "geo_altitude": 2065.02
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW5896",
-    "velocity": 150.32,
-    "geo_altitude": 3048
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "N680DG",
-    "velocity": 60.78,
-    "geo_altitude": 1363.98
+    "velocity": 113.69,
+    "geo_altitude": 1546.86
   },
   {
     "country_of_registration": "United Kingdom",
     "call_sign": "DHK870",
-    "velocity": 238.41,
-    "geo_altitude": 11620.5
+    "velocity": 241.83,
+    "geo_altitude": 11605.26
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AMF1532",
-    "velocity": 99.94,
-    "geo_altitude": 1539.24
+    "velocity": 96.51,
+    "geo_altitude": 1318.26
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AAL2977",
-    "velocity": 142.31,
-    "geo_altitude": 2179.32
+    "velocity": 120.99,
+    "geo_altitude": 1554.48
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL1246",
-    "velocity": 260.93,
-    "geo_altitude": 11201.4
+    "velocity": 251.78,
+    "geo_altitude": 11193.78
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "CFKLR",
-    "velocity": 83.22,
+    "velocity": 75,
     "geo_altitude": 601.98
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "GJS4166",
+    "velocity": 160.14,
+    "geo_altitude": 3421.38
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "JZA233",
+    "velocity": 7.2,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
@@ -2592,232 +2748,232 @@
     "geo_altitude": 0.0
   },
   {
-    "country_of_registration": "United States",
-    "call_sign": "N50623",
-    "velocity": 65.16,
-    "geo_altitude": 403.86
-  },
-  {
     "country_of_registration": "Canada",
     "call_sign": "PRO1050",
-    "velocity": 147.13,
-    "geo_altitude": 7863.84
+    "velocity": 147.74,
+    "geo_altitude": 5318.76
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AIP1603",
-    "velocity": 131.18,
+    "velocity": 124.7,
     "geo_altitude": 5135.88
   },
   {
     "country_of_registration": "United States",
     "call_sign": "MVK81",
-    "velocity": 51.59,
-    "geo_altitude": 1386.84
+    "velocity": 57.14,
+    "geo_altitude": 1363.98
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AAL2163",
-    "velocity": 231.52,
-    "geo_altitude": 11247.12
+    "velocity": 223.84,
+    "geo_altitude": 11315.7
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "N457TL",
+    "velocity": 68.9,
+    "geo_altitude": 3139.44
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW3702",
-    "velocity": 199.98,
-    "geo_altitude": 10904.22
+    "velocity": 199.66,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ENY3751",
-    "velocity": 235.2,
-    "geo_altitude": 8610.6
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "N702TV",
-    "velocity": 74.28,
-    "geo_altitude": 396.24
+    "velocity": 206,
+    "geo_altitude": 5989.32
   },
   {
     "country_of_registration": "United States",
     "call_sign": "EJM652",
-    "velocity": 265.87,
-    "geo_altitude": 12672.06
+    "velocity": 266.53,
+    "geo_altitude": 13997.94
   },
   {
     "country_of_registration": "United States",
     "call_sign": "GJS4397",
-    "velocity": 188.26,
+    "velocity": 186.53,
     "geo_altitude": 3451.86
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N723DJ",
-    "velocity": 44.64,
+    "velocity": 55.51,
     "geo_altitude": 868.68
   },
   {
     "country_of_registration": "United States",
+    "call_sign": "SKW5598",
+    "velocity": 191.91,
+    "geo_altitude": 3116.58
+  },
+  {
+    "country_of_registration": "United States",
     "call_sign": "SWA4156",
-    "velocity": 233.57,
-    "geo_altitude": 11391.9
+    "velocity": 232.06,
+    "geo_altitude": 11414.76
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL2791",
-    "velocity": 182.2,
-    "geo_altitude": 4800.6
+    "velocity": 148.62,
+    "geo_altitude": 2278.38
   },
   {
     "country_of_registration": "United States",
     "call_sign": "FRG1642",
-    "velocity": 91.43,
-    "geo_altitude": 1988.82
+    "velocity": 101.01,
+    "geo_altitude": 2811.78
   },
   {
     "country_of_registration": "United States",
     "call_sign": "CXK106",
-    "velocity": 30.37,
-    "geo_altitude": 464.82
+    "velocity": 51.28,
+    "geo_altitude": 556.26
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SWA163",
-    "velocity": 147.69,
-    "geo_altitude": 2590.8
+    "velocity": 210.08,
+    "geo_altitude": 7208.52
   },
   {
     "country_of_registration": "United States",
     "call_sign": "JBU397",
-    "velocity": 237.82,
-    "geo_altitude": 8671.56
+    "velocity": 231.9,
+    "geo_altitude": 10020.3
   },
   {
     "country_of_registration": "Japan",
     "call_sign": "NCA143",
-    "velocity": 229.68,
-    "geo_altitude": 10614.66
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "SWA4470",
-    "velocity": 235.26,
-    "geo_altitude": 11186.16
+    "velocity": 230.9,
+    "geo_altitude": 10599.42
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SCX101",
-    "velocity": 219.99,
-    "geo_altitude": 6804.66
+    "velocity": 235.86,
+    "geo_altitude": 8930.64
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "WJA613",
-    "velocity": 219.47,
+    "velocity": 218.54,
     "geo_altitude": 11300.46
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N58CG",
-    "velocity": 235.6,
-    "geo_altitude": 7193.28
+    "velocity": 235.15,
+    "geo_altitude": 7185.66
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "PSC582",
-    "velocity": 142.24,
-    "geo_altitude": 3619.5
+    "velocity": 138.45,
+    "geo_altitude": 3070.86
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AIP1565",
-    "velocity": 88.67,
-    "geo_altitude": 1516.38
+    "velocity": 100.98,
+    "geo_altitude": 4046.22
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "UPS62",
+    "velocity": 230.76,
+    "geo_altitude": 11818.62
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UPS104",
-    "velocity": 225.94,
-    "geo_altitude": 11308.08
+    "velocity": 225.3,
+    "geo_altitude": 11902.44
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N287CJ",
-    "velocity": 62.64,
-    "geo_altitude": 441.96
+    "velocity": 2.06,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL158",
-    "velocity": 262.95,
-    "geo_altitude": 12298.68
+    "velocity": 267.71,
+    "geo_altitude": 12313.92
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL497",
-    "velocity": 1.03,
+    "velocity": 4.37,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL2969",
-    "velocity": 0.06,
+    "velocity": 1.8,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL394",
-    "velocity": 244.95,
-    "geo_altitude": 11087.1
+    "velocity": 245.3,
+    "geo_altitude": 10919.46
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N906AS",
-    "velocity": 224.8,
-    "geo_altitude": 10096.5
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "N4047N",
-    "velocity": 35.02,
-    "geo_altitude": 1036.32
+    "velocity": 223.12,
+    "geo_altitude": 11026.14
   },
   {
     "country_of_registration": "China",
-    "call_sign": "CKK225",
-    "velocity": 276.78,
-    "geo_altitude": 10325.1
+    "call_sign": "Неизвестно",
+    "velocity": 265.91,
+    "geo_altitude": 10355.58
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N44CU",
-    "velocity": 49.49,
-    "geo_altitude": 1341.12
+    "velocity": 53.15,
+    "geo_altitude": 815.34
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N13NN",
-    "velocity": 22.27,
-    "geo_altitude": 342.9
+    "velocity": 0.73,
+    "geo_altitude": 381
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N838WP",
-    "velocity": 69.25,
-    "geo_altitude": 1584.96
+    "velocity": 71.09,
+    "geo_altitude": 2697.48
   },
   {
-    "country_of_registration": "United States",
-    "call_sign": "MVP665",
-    "velocity": 236.74,
-    "geo_altitude": 11711.94
+    "country_of_registration": "Canada",
+    "call_sign": "PAG4330",
+    "velocity": 8.23,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "MDC426",
-    "velocity": 133.27,
-    "geo_altitude": 8542.02
+    "velocity": 114.35,
+    "geo_altitude": 3558.54
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "CGYDM",
+    "velocity": 62.05,
+    "geo_altitude": 1394.46
   },
   {
     "country_of_registration": "United States",
@@ -2828,38 +2984,44 @@
   {
     "country_of_registration": "Saudi Arabia",
     "call_sign": "SVA023",
-    "velocity": 230.64,
-    "geo_altitude": 11376.66
+    "velocity": 224.08,
+    "geo_altitude": 11369.04
   },
   {
     "country_of_registration": "United States",
     "call_sign": "RPA5631",
-    "velocity": 224.47,
-    "geo_altitude": 11041.38
+    "velocity": 224.08,
+    "geo_altitude": 11033.76
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AAL2324",
-    "velocity": 218.38,
-    "geo_altitude": 11315.7
+    "velocity": 222.76,
+    "geo_altitude": 11330.94
+  },
+  {
+    "country_of_registration": "Mexico",
+    "call_sign": "AMX694",
+    "velocity": 222.42,
+    "geo_altitude": 11460.48
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW184C",
-    "velocity": 228.51,
-    "geo_altitude": 7658.1
+    "velocity": 221.36,
+    "geo_altitude": 7665.72
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW5786",
-    "velocity": 223.13,
-    "geo_altitude": 10789.92
+    "velocity": 225.34,
+    "geo_altitude": 9585.96
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW5239",
-    "velocity": 209.02,
-    "geo_altitude": 11658.6
+    "velocity": 213.83,
+    "geo_altitude": 11666.22
   },
   {
     "country_of_registration": "Canada",
@@ -2870,67 +3032,79 @@
   {
     "country_of_registration": "United States",
     "call_sign": "DAL2510",
-    "velocity": 200.02,
-    "geo_altitude": 11521.44
+    "velocity": 192.25,
+    "geo_altitude": 11536.68
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL2403",
-    "velocity": 187,
-    "geo_altitude": 11559.54
+    "velocity": 188.48,
+    "geo_altitude": 11384.28
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL1850",
-    "velocity": 3.86,
+    "velocity": 6.17,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "WJA559",
-    "velocity": 215.91,
-    "geo_altitude": 10858.5
+    "velocity": 221.67,
+    "geo_altitude": 11917.68
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ABX797",
-    "velocity": 7.72,
+    "velocity": 8.23,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL2800",
-    "velocity": 222.66,
-    "geo_altitude": 10668
+    "velocity": 218.22,
+    "geo_altitude": 10728.96
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "4444",
+    "velocity": 0,
+    "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "SKW5491",
+    "velocity": 10.29,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "PAG318",
-    "velocity": 143.26,
-    "geo_altitude": 5372.1
+    "velocity": 159.3,
+    "geo_altitude": 3101.34
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UPS5031",
-    "velocity": 220.28,
-    "geo_altitude": 5410.2
+    "velocity": 254.68,
+    "geo_altitude": 8336.28
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL2631",
-    "velocity": 241.84,
-    "geo_altitude": 9608.82
+    "velocity": 230.04,
+    "geo_altitude": 10706.1
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL530",
-    "velocity": 95.69,
-    "geo_altitude": 990.6
+    "velocity": 18.01,
+    "geo_altitude": 243.84
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ENY3845",
-    "velocity": 9.77,
+    "velocity": 9.26,
     "geo_altitude": 0.0
   },
   {
@@ -2942,32 +3116,44 @@
   {
     "country_of_registration": "United States",
     "call_sign": "KAP18",
-    "velocity": 93.29,
-    "geo_altitude": 2209.8
+    "velocity": 86.91,
+    "geo_altitude": 1851.66
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "SKW4110",
+    "velocity": 228.46,
+    "geo_altitude": 10393.68
   },
   {
     "country_of_registration": "United States",
     "call_sign": "NSH51",
-    "velocity": 104.49,
-    "geo_altitude": 8237.22
+    "velocity": 140.48,
+    "geo_altitude": 8313.42
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N707BW",
-    "velocity": 95.64,
+    "velocity": 94.86,
     "geo_altitude": 3771.9
   },
   {
     "country_of_registration": "United States",
-    "call_sign": "JIA5503",
-    "velocity": 252.91,
-    "geo_altitude": 10507.98
+    "call_sign": "DAL2594",
+    "velocity": 0,
+    "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "EDV4652",
+    "velocity": 138.11,
+    "geo_altitude": 2476.5
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL2538",
-    "velocity": 216.97,
-    "geo_altitude": 8343.9
+    "velocity": 215.26,
+    "geo_altitude": 8351.52
   },
   {
     "country_of_registration": "United States",
@@ -2978,176 +3164,206 @@
   {
     "country_of_registration": "United States",
     "call_sign": "UAL2295",
-    "velocity": 237.98,
-    "geo_altitude": 11117.58
+    "velocity": 239.48,
+    "geo_altitude": 11102.34
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL709",
-    "velocity": 160.51,
-    "geo_altitude": 3131.82
+    "velocity": 122.95,
+    "geo_altitude": 1356.36
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UPS982",
-    "velocity": 129.72,
-    "geo_altitude": 1516.38
+    "velocity": 74.91,
+    "geo_altitude": 30.48
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N811KS",
-    "velocity": 42.23,
-    "geo_altitude": 518.16
+    "velocity": 56.53,
+    "geo_altitude": 495.3
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AER41",
-    "velocity": 127.63,
-    "geo_altitude": 6477
+    "velocity": 131.61,
+    "geo_altitude": 6499.86
   },
   {
     "country_of_registration": "United States",
-    "call_sign": "ENY3496",
-    "velocity": 225.04,
-    "geo_altitude": 9456.42
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "N4612J",
-    "velocity": 54.59,
-    "geo_altitude": 419.1
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "ENY4041",
-    "velocity": 6.69,
+    "call_sign": "AAL2521",
+    "velocity": 0,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
-    "call_sign": "SKW5553",
-    "velocity": 215.11,
-    "geo_altitude": 7033.26
+    "call_sign": "ENY3496",
+    "velocity": 227.8,
+    "geo_altitude": 9464.04
   },
   {
     "country_of_registration": "United States",
-    "call_sign": "DAL2251",
-    "velocity": 116.81,
-    "geo_altitude": 1219.2
-  },
-  {
-    "country_of_registration": "Canada",
-    "call_sign": "JZA532",
-    "velocity": 183.55,
-    "geo_altitude": 7886.7
+    "call_sign": "N4612J",
+    "velocity": 68.95,
+    "geo_altitude": 388.62
   },
   {
     "country_of_registration": "United States",
-    "call_sign": "N26098",
-    "velocity": 70.03,
-    "geo_altitude": 2819.4
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "Неизвестно",
+    "call_sign": "ENY4041",
     "velocity": 1.54,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
-    "call_sign": "ENY4272",
-    "velocity": 3.6,
+    "call_sign": "SKW5553",
+    "velocity": 217.13,
+    "geo_altitude": 7040.88
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "DAL2251",
+    "velocity": 28.29,
+    "geo_altitude": 236.22
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "SWA3629",
+    "velocity": 1.54,
+    "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "JZA532",
+    "velocity": 185.55,
+    "geo_altitude": 7879.08
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "N26098",
+    "velocity": 66.14,
+    "geo_altitude": 2811.78
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "DAL1827",
+    "velocity": 7.2,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "PWR11",
-    "velocity": 10.8,
+    "velocity": 0.64,
     "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "00000000",
+    "velocity": 225.38,
+    "geo_altitude": 12946.38
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "FLE689",
-    "velocity": 206.82,
-    "geo_altitude": 12031.98
+    "velocity": 204.05,
+    "geo_altitude": 12039.6
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "POE9935",
-    "velocity": 236.45,
-    "geo_altitude": 12565.38
+    "velocity": 232.51,
+    "geo_altitude": 12557.76
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N1170M",
-    "velocity": 54.76,
-    "geo_altitude": 2948.94
+    "velocity": 55.07,
+    "geo_altitude": 2918.46
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "N150RF",
+    "velocity": 94.76,
+    "geo_altitude": 3139.44
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW4140",
-    "velocity": 153.08,
-    "geo_altitude": 2964.18
+    "velocity": 96.79,
+    "geo_altitude": 998.22
   },
   {
     "country_of_registration": "United States",
     "call_sign": "FDX29",
-    "velocity": 236.86,
-    "geo_altitude": 11323.32
+    "velocity": 240.57,
+    "geo_altitude": 11300.46
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "POE615",
-    "velocity": 245.55,
-    "geo_altitude": 9745.98
+    "velocity": 244.11,
+    "geo_altitude": 9738.36
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "POE188",
-    "velocity": 9.77,
+    "velocity": 6.94,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "POE102",
-    "velocity": 118.62,
-    "geo_altitude": 1485.9
+    "velocity": 61.88,
+    "geo_altitude": 320.04
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "POE656",
-    "velocity": 205.78,
-    "geo_altitude": 7711.44
+    "velocity": 164.63,
+    "geo_altitude": 4907.28
   },
   {
     "country_of_registration": "United States",
     "call_sign": "GTI538",
-    "velocity": 281.11,
-    "geo_altitude": 9806.94
+    "velocity": 281.01,
+    "geo_altitude": 9822.18
   },
   {
-    "country_of_registration": "Canada",
-    "call_sign": "PTR2630",
-    "velocity": 71.65,
-    "geo_altitude": 518.16
+    "country_of_registration": "United States",
+    "call_sign": "KAP978",
+    "velocity": 50.68,
+    "geo_altitude": 190.5
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "CGZAX",
-    "velocity": 83.65,
-    "geo_altitude": 1333.5
+    "velocity": 35.7,
+    "geo_altitude": 1158.24
   },
   {
     "country_of_registration": "United States",
     "call_sign": "FDX140",
-    "velocity": 229.84,
-    "geo_altitude": 10767.06
+    "velocity": 223.43,
+    "geo_altitude": 8968.74
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "POE347",
+    "velocity": 195.02,
+    "geo_altitude": 11437.62
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "Неизвестно",
+    "velocity": 1.03,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N449LF",
-    "velocity": 58.28,
-    "geo_altitude": 1249.68
+    "velocity": 24.4,
+    "geo_altitude": 754.38
   },
   {
     "country_of_registration": "United States",
@@ -3158,446 +3374,512 @@
   {
     "country_of_registration": "Canada",
     "call_sign": "POE481",
-    "velocity": 210.99,
-    "geo_altitude": 8176.26
+    "velocity": 217,
+    "geo_altitude": 10081.26
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "POE653",
-    "velocity": 228.03,
-    "geo_altitude": 11452.86
+    "velocity": 224.42,
+    "geo_altitude": 11475.72
   },
   {
-    "country_of_registration": "Canada",
-    "call_sign": "POE150",
-    "velocity": 2.83,
-    "geo_altitude": 0.0
+    "country_of_registration": "United States",
+    "call_sign": "DAL699",
+    "velocity": 224.59,
+    "geo_altitude": 10104.12
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "POE222",
-    "velocity": 104.2,
-    "geo_altitude": 1028.7
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "N203CK",
-    "velocity": 4.12,
+    "velocity": 13.38,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "POE603",
-    "velocity": 236.22,
-    "geo_altitude": 8351.52
+    "velocity": 248.18,
+    "geo_altitude": 9761.22
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "CFEXF",
+    "velocity": 5.92,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "PTR2938",
-    "velocity": 150.02,
-    "geo_altitude": 7543.8
+    "velocity": 148.63,
+    "geo_altitude": 7551.42
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "PTR2324",
-    "velocity": 168.9,
-    "geo_altitude": 7566.66
+    "velocity": 170.98,
+    "geo_altitude": 7551.42
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "PTR2280",
-    "velocity": 143.84,
-    "geo_altitude": 6073.14
+    "velocity": 144.05,
+    "geo_altitude": 7574.28
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "PTR2610",
-    "velocity": 175.39,
-    "geo_altitude": 3771.9
+    "velocity": 142.12,
+    "geo_altitude": 1546.86
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "PTR2121",
-    "velocity": 183.6,
-    "geo_altitude": 5958.84
+    "velocity": 169.83,
+    "geo_altitude": 4335.78
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "CGEJE",
-    "velocity": 139.92,
-    "geo_altitude": 2758.44
+    "velocity": 135.37,
+    "geo_altitude": 2125.98
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL565",
-    "velocity": 217.87,
-    "geo_altitude": 9624.06
+    "velocity": 218.46,
+    "geo_altitude": 9639.3
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ASA75",
-    "velocity": 236.47,
-    "geo_altitude": 10698.48
+    "velocity": 234.09,
+    "geo_altitude": 10706.1
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "CNS143",
+    "velocity": 0,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "TEK757",
-    "velocity": 132.92,
-    "geo_altitude": 6240.78
+    "velocity": 134.01,
+    "geo_altitude": 6248.4
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "WJA1032",
-    "velocity": 0.13,
+    "velocity": 8.75,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW3639",
-    "velocity": 87.67,
-    "geo_altitude": 739.14
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "SWA995",
-    "velocity": 75.34,
-    "geo_altitude": 274.32
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "UAL2849",
-    "velocity": 203.13,
-    "geo_altitude": 5798.82
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "UPS5609",
-    "velocity": 217.77,
-    "geo_altitude": 11330.94
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "SKW4639",
-    "velocity": 188.91,
-    "geo_altitude": 3703.32
-  },
-  {
-    "country_of_registration": "Canada",
-    "call_sign": "SER308",
-    "velocity": 2.57,
+    "velocity": 6.43,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
+    "call_sign": "SWA995",
+    "velocity": 61.88,
+    "geo_altitude": 182.88
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "Неизвестно",
+    "velocity": 16.98,
+    "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "UAL2849",
+    "velocity": 153.84,
+    "geo_altitude": 3009.9
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "UPS5609",
+    "velocity": 220.94,
+    "geo_altitude": 11932.92
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "SKW4639",
+    "velocity": 183.97,
+    "geo_altitude": 3131.82
+  },
+  {
+    "country_of_registration": "United States",
     "call_sign": "ENY3373",
-    "velocity": 220.23,
-    "geo_altitude": 9456.42
+    "velocity": 235.73,
+    "geo_altitude": 10660.38
   },
   {
     "country_of_registration": "United States",
     "call_sign": "FDX1476",
-    "velocity": 229.65,
-    "geo_altitude": 10195.56
+    "velocity": 214.04,
+    "geo_altitude": 8450.58
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ENY4134",
-    "velocity": 204.89,
-    "geo_altitude": 6644.64
+    "velocity": 213.74,
+    "geo_altitude": 8511.54
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N3039F",
-    "velocity": 57.21,
-    "geo_altitude": 1676.4
+    "velocity": 53.41,
+    "geo_altitude": 1607.82
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "FLE643",
-    "velocity": 202.19,
-    "geo_altitude": 12039.6
+    "velocity": 196.52,
+    "geo_altitude": 12054.84
   },
   {
     "country_of_registration": "United States",
     "call_sign": "FDX19",
-    "velocity": 232.09,
-    "geo_altitude": 11940.54
+    "velocity": 231.1,
+    "geo_altitude": 11932.92
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AAL360",
-    "velocity": 227.45,
-    "geo_altitude": 11308.08
+    "velocity": 233.6,
+    "geo_altitude": 11315.7
   },
   {
     "country_of_registration": "United Kingdom",
     "call_sign": "BAW29G",
-    "velocity": 211.21,
-    "geo_altitude": 6309.36
+    "velocity": 242.94,
+    "geo_altitude": 8991.6
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N278RC",
     "velocity": 70.48,
-    "geo_altitude": 609.6
+    "geo_altitude": 617.22
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "Неизвестно",
-    "velocity": 4.89,
+    "velocity": 4.63,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AAL327",
-    "velocity": 224.69,
-    "geo_altitude": 12207.24
+    "velocity": 234.61,
+    "geo_altitude": 12405.36
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N350JP",
-    "velocity": 142.76,
-    "geo_altitude": 7254.24
+    "velocity": 137.89,
+    "geo_altitude": 7239
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ASA558",
-    "velocity": 222.63,
-    "geo_altitude": 7536.18
+    "velocity": 196.44,
+    "geo_altitude": 4236.72
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "EDV5240",
+    "velocity": 143.28,
+    "geo_altitude": 2308.86
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N502DE",
-    "velocity": 49.14,
-    "geo_altitude": 358.14
+    "velocity": 50.12,
+    "geo_altitude": 312.42
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N2270S",
-    "velocity": 55.8,
-    "geo_altitude": 396.24
+    "velocity": 66.9,
+    "geo_altitude": 297.18
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AAL2020",
-    "velocity": 235.8,
-    "geo_altitude": 8945.88
+    "velocity": 223.72,
+    "geo_altitude": 11003.28
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "ROU2071",
-    "velocity": 236.27,
+    "velocity": 233.32,
     "geo_altitude": 10988.04
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SCX421",
-    "velocity": 211.06,
-    "geo_altitude": 11628.12
+    "velocity": 214.48,
+    "geo_altitude": 11635.74
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "ASA283",
+    "velocity": 212.66,
+    "geo_altitude": 10942.32
   },
   {
     "country_of_registration": "United States",
     "call_sign": "RPA5741",
-    "velocity": 241.8,
-    "geo_altitude": 9875.52
+    "velocity": 243.85,
+    "geo_altitude": 10507.98
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL647",
-    "velocity": 0,
-    "geo_altitude": 0.0
+    "velocity": 152.82,
+    "geo_altitude": 3116.58
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "CRQ703",
+    "velocity": 93.91,
+    "geo_altitude": 2301.24
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "CFDYY",
+    "velocity": 31.02,
+    "geo_altitude": 396.24
   },
   {
     "country_of_registration": "United States",
-    "call_sign": "Неизвестно",
-    "velocity": 9.77,
-    "geo_altitude": 0.0
+    "call_sign": "SKW6250",
+    "velocity": 105.67,
+    "geo_altitude": 838.2
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "FLE602",
-    "velocity": 0,
+    "velocity": 0.45,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "COL626",
-    "velocity": 135.3,
-    "geo_altitude": 1546.86
+    "velocity": 138.57,
+    "geo_altitude": 1562.1
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ASA54",
-    "velocity": 227.17,
-    "geo_altitude": 10759.44
+    "velocity": 225.15,
+    "geo_altitude": 10774.68
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AMF1546",
-    "velocity": 100.5,
+    "velocity": 101.61,
     "geo_altitude": 2819.4
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N703AC",
-    "velocity": 13.8,
-    "geo_altitude": 320.04
+    "velocity": 7.37,
+    "geo_altitude": 259.08
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N957NL",
-    "velocity": 107.58,
-    "geo_altitude": 1882.14
+    "velocity": 55.3,
+    "geo_altitude": 731.52
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AAL3324",
-    "velocity": 233.09,
-    "geo_altitude": 11361.42
+    "velocity": 235.21,
+    "geo_altitude": 11384.28
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "N135EC",
+    "velocity": 58.03,
+    "geo_altitude": 723.9
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "CJT1574",
-    "velocity": 76.07,
-    "geo_altitude": 457.2
+    "velocity": 62.66,
+    "geo_altitude": 106.68
   },
   {
     "country_of_registration": "United States",
     "call_sign": "CSB588",
-    "velocity": 236.28,
-    "geo_altitude": 12237.72
+    "velocity": 238.81,
+    "geo_altitude": 12230.1
   },
   {
     "country_of_registration": "United States",
     "call_sign": "KAP2112",
-    "velocity": 76.82,
-    "geo_altitude": 1539.24
+    "velocity": 84.95,
+    "geo_altitude": 1531.62
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "Неизвестно",
+    "velocity": 104.04,
+    "geo_altitude": 792.48
   },
   {
     "country_of_registration": "United States",
     "call_sign": "RPA4444",
-    "velocity": 215.24,
+    "velocity": 216.43,
     "geo_altitude": 8061.96
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "CGRIN",
+    "velocity": 42.53,
+    "geo_altitude": 350.52
   },
   {
     "country_of_registration": "United States",
     "call_sign": "FDX1423",
-    "velocity": 227.67,
-    "geo_altitude": 7627.62
+    "velocity": 179.78,
+    "geo_altitude": 3931.92
   },
   {
     "country_of_registration": "United States",
-    "call_sign": "RPA4512",
-    "velocity": 10.29,
-    "geo_altitude": 0.0
+    "call_sign": "RPA4413",
+    "velocity": 126.35,
+    "geo_altitude": 1280.16
   },
   {
     "country_of_registration": "United States",
     "call_sign": "GRYDR76",
-    "velocity": 76.39,
-    "geo_altitude": 1219.2
+    "velocity": 74.88,
+    "geo_altitude": 1211.58
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "CFKPA",
+    "velocity": 84.21,
+    "geo_altitude": 2171.7
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "CGZGB",
     "velocity": 26.92,
-    "geo_altitude": 251.46
+    "geo_altitude": 373.38
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N150PT",
-    "velocity": 35.72,
-    "geo_altitude": 647.7
+    "velocity": 37.51,
+    "geo_altitude": 388.62
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AAL1355",
-    "velocity": 243.52,
-    "geo_altitude": 10507.98
+    "velocity": 243.32,
+    "geo_altitude": 10515.6
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "FLE601",
-    "velocity": 11.83,
-    "geo_altitude": 0.0
+    "velocity": 93.86,
+    "geo_altitude": 678.18
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N5459Y",
-    "velocity": 36.36,
-    "geo_altitude": 457.2
+    "velocity": 31.82,
+    "geo_altitude": 350.52
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "JZA511",
-    "velocity": 201.1,
-    "geo_altitude": 10104.12
+    "velocity": 214.66,
+    "geo_altitude": 9144
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N2353",
-    "velocity": 91.23,
-    "geo_altitude": 6835.14
+    "velocity": 95.98,
+    "geo_altitude": 7848.6
   },
   {
     "country_of_registration": "Japan",
     "call_sign": "JAL56",
-    "velocity": 263.49,
-    "geo_altitude": 10020.3
+    "velocity": 245.67,
+    "geo_altitude": 9182.1
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "AAL1605",
+    "velocity": 170.21,
+    "geo_altitude": 3977.64
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL2389",
-    "velocity": 146.47,
-    "geo_altitude": 2110.74
+    "velocity": 131.72,
+    "geo_altitude": 1554.48
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL2681",
-    "velocity": 234.74,
-    "geo_altitude": 11010.9
+    "velocity": 197.27,
+    "geo_altitude": 7109.46
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ENY4328",
-    "velocity": 11.32,
+    "velocity": 3.6,
     "geo_altitude": 0.0
   },
   {
-    "country_of_registration": "United States",
-    "call_sign": "SWA4154",
-    "velocity": 203.53,
-    "geo_altitude": 6423.66
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "JRE325",
+    "country_of_registration": "Canada",
+    "call_sign": "JZA629",
     "velocity": 0,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
-    "call_sign": "MWT185",
-    "velocity": 120.93,
-    "geo_altitude": 4533.9
+    "call_sign": "SWA4154",
+    "velocity": 228.44,
+    "geo_altitude": 9174.48
   },
   {
-    "country_of_registration": "Canada",
-    "call_sign": "JZA872",
-    "velocity": 189.82,
-    "geo_altitude": 4625.34
+    "country_of_registration": "United States",
+    "call_sign": "JRE325",
+    "velocity": 3.09,
+    "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "MWT185",
+    "velocity": 129.71,
+    "geo_altitude": 6187.44
   },
   {
     "country_of_registration": "United States",
     "call_sign": "PAT680",
-    "velocity": 128.27,
+    "velocity": 130.25,
     "geo_altitude": 6690.36
   },
   {
     "country_of_registration": "United States",
     "call_sign": "RPA3600",
-    "velocity": 171.06,
-    "geo_altitude": 3185.16
+    "velocity": 147.19,
+    "geo_altitude": 1965.96
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "UAL2183",
+    "velocity": 222.49,
+    "geo_altitude": 11338.56
   },
   {
     "country_of_registration": "United States",
@@ -3608,20 +3890,26 @@
   {
     "country_of_registration": "United States",
     "call_sign": "AMF1570",
-    "velocity": 86.77,
-    "geo_altitude": 3131.82
+    "velocity": 90.91,
+    "geo_altitude": 2933.7
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "ENY4036",
+    "velocity": 224.36,
+    "geo_altitude": 7330.44
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "WJA437",
-    "velocity": 217.08,
-    "geo_altitude": 7688.58
+    "velocity": 218.36,
+    "geo_altitude": 7696.2
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "FLE2821",
-    "velocity": 219.81,
-    "geo_altitude": 12024.36
+    "velocity": 219.51,
+    "geo_altitude": 12016.74
   },
   {
     "country_of_registration": "Canada",
@@ -3632,398 +3920,422 @@
   {
     "country_of_registration": "United States",
     "call_sign": "N117HD",
-    "velocity": 1.63,
-    "geo_altitude": 464.82
+    "velocity": 12.36,
+    "geo_altitude": 388.62
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SCX1775",
-    "velocity": 139.44,
-    "geo_altitude": 1143
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "N267HH",
-    "velocity": 37.56,
-    "geo_altitude": 266.7
+    "velocity": 193.29,
+    "geo_altitude": 4587.24
   },
   {
     "country_of_registration": "United States",
     "call_sign": "EDV5427",
-    "velocity": 221.85,
-    "geo_altitude": 10698.48
+    "velocity": 220.38,
+    "geo_altitude": 10713.72
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "ACA343",
-    "velocity": 224.36,
+    "velocity": 222.52,
     "geo_altitude": 10088.88
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N345PG",
-    "velocity": 92.97,
-    "geo_altitude": 1089.66
+    "velocity": 92.73,
+    "geo_altitude": 1699.26
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N44SW",
-    "velocity": 163.29,
-    "geo_altitude": 3771.9
+    "velocity": 166.17,
+    "geo_altitude": 3764.28
   },
   {
     "country_of_registration": "United States",
     "call_sign": "CYT90",
-    "velocity": 133.53,
+    "velocity": 135.46,
     "geo_altitude": 8077.2
   },
   {
     "country_of_registration": "United States",
+    "call_sign": "RPA5735",
+    "velocity": 0,
+    "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "DAL1635",
+    "velocity": 228.46,
+    "geo_altitude": 10187.94
+  },
+  {
+    "country_of_registration": "United States",
     "call_sign": "KAP1830",
-    "velocity": 90.03,
-    "geo_altitude": 1859.28
+    "velocity": 91.57,
+    "geo_altitude": 1851.66
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AAL2315",
-    "velocity": 233.44,
-    "geo_altitude": 10721.34
+    "velocity": 231.12,
+    "geo_altitude": 10744.2
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "ROU2059",
-    "velocity": 164.97,
-    "geo_altitude": 3749.04
+    "velocity": 128.1,
+    "geo_altitude": 1897.38
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N451MJ",
-    "velocity": 68.52,
-    "geo_altitude": 1127.76
+    "velocity": 68.81,
+    "geo_altitude": 1470.66
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AAL1509",
-    "velocity": 235.71,
-    "geo_altitude": 11315.7
+    "velocity": 237.17,
+    "geo_altitude": 11323.32
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ASA440",
-    "velocity": 216.7,
-    "geo_altitude": 10965.18
+    "velocity": 210.37,
+    "geo_altitude": 10744.2
   },
   {
     "country_of_registration": "United States",
     "call_sign": "EDV5404",
-    "velocity": 79.14,
-    "geo_altitude": 457.2
+    "velocity": 185.29,
+    "geo_altitude": 4122.42
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "CJT991",
-    "velocity": 224.62,
-    "geo_altitude": 8100.06
+    "velocity": 209.91,
+    "geo_altitude": 6156.96
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW4292",
-    "velocity": 211.86,
-    "geo_altitude": 7063.74
+    "velocity": 177.8,
+    "geo_altitude": 4434.84
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AAL462",
-    "velocity": 226.32,
-    "geo_altitude": 10820.4
+    "velocity": 231.94,
+    "geo_altitude": 9867.9
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "N519LM",
+    "velocity": 150.51,
+    "geo_altitude": 2766.06
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "DAL1597",
+    "velocity": 219.37,
+    "geo_altitude": 9715.5
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "Неизвестно",
+    "velocity": 7.72,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "JBU492",
-    "velocity": 223.28,
-    "geo_altitude": 8740.14
+    "velocity": 209.38,
+    "geo_altitude": 7932.42
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "CFBQP",
-    "velocity": 30.25,
-    "geo_altitude": 190.5
+    "velocity": 29.57,
+    "geo_altitude": 274.32
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "WJA859",
-    "velocity": 90.6,
-    "geo_altitude": 899.16
+    "velocity": 5.4,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N802G",
-    "velocity": 56.13,
-    "geo_altitude": 403.86
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "N4512J",
-    "velocity": 76,
-    "geo_altitude": 350.52
+    "velocity": 56.03,
+    "geo_altitude": 320.04
   },
   {
     "country_of_registration": "United States",
     "call_sign": "CNS678",
-    "velocity": 134.55,
+    "velocity": 137.35,
     "geo_altitude": 3124.2
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N6245S",
-    "velocity": 76.86,
+    "velocity": 76.5,
     "geo_altitude": 739.14
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ASA1520",
-    "velocity": 217.53,
-    "geo_altitude": 8945.88
+    "velocity": 184.38,
+    "geo_altitude": 5638.8
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N221GP",
-    "velocity": 23.16,
-    "geo_altitude": 251.46
+    "velocity": 34.05,
+    "geo_altitude": 259.08
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL215",
-    "velocity": 151.73,
-    "geo_altitude": 2689.86
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "N802HB",
-    "velocity": 81.23,
-    "geo_altitude": 541.02
+    "velocity": 118.46,
+    "geo_altitude": 1280.16
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SWA4112",
-    "velocity": 241.22,
-    "geo_altitude": 11148.06
+    "velocity": 249.18,
+    "geo_altitude": 11163.3
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N587M",
-    "velocity": 246.21,
-    "geo_altitude": 6187.44
+    "velocity": 169.51,
+    "geo_altitude": 3185.16
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N7931D",
-    "velocity": 129.79,
-    "geo_altitude": 5585.46
+    "velocity": 125.81,
+    "geo_altitude": 3909.06
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ASA609",
-    "velocity": 233.41,
-    "geo_altitude": 11346.18
+    "velocity": 233.7,
+    "geo_altitude": 11361.42
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AAL1870",
-    "velocity": 263.01,
+    "velocity": 263.09,
     "geo_altitude": 10637.52
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "CGDEQ",
-    "velocity": 28.63,
-    "geo_altitude": 1089.66
+    "velocity": 44.43,
+    "geo_altitude": 1310.64
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW5432",
-    "velocity": 230.94,
-    "geo_altitude": 9418.32
+    "velocity": 239.71,
+    "geo_altitude": 9357.36
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW4460",
-    "velocity": 219.48,
-    "geo_altitude": 9639.3
+    "velocity": 217.42,
+    "geo_altitude": 9646.92
   },
   {
     "country_of_registration": "United States",
     "call_sign": "WMU20",
-    "velocity": 73.07,
-    "geo_altitude": 1059.18
+    "velocity": 76.14,
+    "geo_altitude": 1021.08
   },
   {
     "country_of_registration": "United States",
     "call_sign": "FDX5183",
-    "velocity": 274.73,
-    "geo_altitude": 10378.44
+    "velocity": 274.5,
+    "geo_altitude": 10347.96
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL1055",
-    "velocity": 268.35,
-    "geo_altitude": 10622.28
+    "velocity": 271.18,
+    "geo_altitude": 10546.08
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N38BT",
-    "velocity": 95.9,
+    "velocity": 96.93,
     "geo_altitude": 2796.54
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "RPA3429",
+    "velocity": 180.44,
+    "geo_altitude": 3787.14
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL2223",
-    "velocity": 238.93,
-    "geo_altitude": 10104.12
+    "velocity": 232.14,
+    "geo_altitude": 10111.74
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "CFCBA",
-    "velocity": 231.21,
-    "geo_altitude": 10507.98
+    "velocity": 220.92,
+    "geo_altitude": 9608.82
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "CJT942",
-    "velocity": 123.23,
-    "geo_altitude": 2796.54
+    "velocity": 76.33,
+    "geo_altitude": 601.98
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "Неизвестно",
+    "velocity": 3.86,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "JZA7952",
-    "velocity": 178.54,
-    "geo_altitude": 6743.7
+    "velocity": 165,
+    "geo_altitude": 4351.02
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "Неизвестно",
+    "velocity": 2.83,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N9461Z",
-    "velocity": 56.1,
+    "velocity": 56.61,
     "geo_altitude": 2476.5
   },
   {
     "country_of_registration": "United States",
     "call_sign": "00000000",
-    "velocity": 142.32,
-    "geo_altitude": 1889.76
+    "velocity": 142.95,
+    "geo_altitude": 1234.44
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "ACA106",
-    "velocity": 73.87,
-    "geo_altitude": 518.16
+    "velocity": 4.89,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "ACA101",
-    "velocity": 217.03,
-    "geo_altitude": 9593.58
+    "velocity": 216.18,
+    "geo_altitude": 9601.2
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW5820",
-    "velocity": 197.68,
-    "geo_altitude": 7856.22
+    "velocity": 177.05,
+    "geo_altitude": 6393.18
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "ACA1101",
-    "velocity": 222.07,
-    "geo_altitude": 10706.1
+    "velocity": 226.41,
+    "geo_altitude": 10713.72
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "JZA704",
-    "velocity": 207.59,
-    "geo_altitude": 6118.86
+    "velocity": 149.43,
+    "geo_altitude": 3390.9
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N37491",
-    "velocity": 70.26,
-    "geo_altitude": 1379.22
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "N7301G",
-    "velocity": 47.34,
-    "geo_altitude": 495.3
+    "velocity": 72.87,
+    "geo_altitude": 1386.84
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SWA883",
-    "velocity": 67.2,
-    "geo_altitude": 274.32
+    "velocity": 7.46,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "ACA442",
-    "velocity": 182.69,
-    "geo_altitude": 7193.28
+    "velocity": 163.21,
+    "geo_altitude": 4023.36
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N102VS",
-    "velocity": 156.68,
+    "velocity": 157.66,
     "geo_altitude": 4960.62
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL307",
-    "velocity": 260.84,
-    "geo_altitude": 10005.06
+    "velocity": 262.52,
+    "geo_altitude": 9997.44
   },
   {
     "country_of_registration": "United States",
     "call_sign": "KAP1850",
-    "velocity": 82.48,
+    "velocity": 83.76,
     "geo_altitude": 1859.28
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SCW3601",
-    "velocity": 230,
-    "geo_altitude": 8663.94
+    "velocity": 233.74,
+    "geo_altitude": 9486.9
   },
   {
     "country_of_registration": "United States",
     "call_sign": "FDX134",
-    "velocity": 8.23,
+    "velocity": 0,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL2643",
-    "velocity": 246.99,
-    "geo_altitude": 9616.44
+    "velocity": 243.52,
+    "geo_altitude": 11308.08
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "PAG1573",
-    "velocity": 123.34,
-    "geo_altitude": 6964.68
+    "velocity": 124.32,
+    "geo_altitude": 6957.06
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N719NC",
-    "velocity": 59.68,
-    "geo_altitude": 220.98
+    "velocity": 6.43,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "TLK418",
-    "velocity": 149.02,
+    "velocity": 148.57,
     "geo_altitude": 8153.4
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL1330",
-    "velocity": 174.43,
-    "geo_altitude": 4328.16
+    "velocity": 211.29,
+    "geo_altitude": 7078.98
   },
   {
     "country_of_registration": "Canada",
@@ -4034,116 +4346,122 @@
   {
     "country_of_registration": "Republic of Korea",
     "call_sign": "KAL093",
-    "velocity": 270.98,
-    "geo_altitude": 11102.34
+    "velocity": 268.45,
+    "geo_altitude": 11117.58
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL2570",
-    "velocity": 193.34,
-    "geo_altitude": 4221.48
+    "velocity": 230.26,
+    "geo_altitude": 7848.6
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ENY3570",
-    "velocity": 117.93,
-    "geo_altitude": 1234.44
+    "velocity": 69.97,
+    "geo_altitude": 236.22
   },
   {
     "country_of_registration": "United States",
-    "call_sign": "ENY4088",
-    "velocity": 4.12,
-    "geo_altitude": 0.0
+    "call_sign": "SWA228",
+    "velocity": 114.6,
+    "geo_altitude": 861.06
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N984GB",
-    "velocity": 176.9,
-    "geo_altitude": 13190.22
+    "velocity": 174.15,
+    "geo_altitude": 13030.2
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N397GF",
-    "velocity": 0,
-    "geo_altitude": 0.0
+    "velocity": 93.46,
+    "geo_altitude": 1188.72
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL2052",
-    "velocity": 100.79,
-    "geo_altitude": 563.88
+    "velocity": 157.71,
+    "geo_altitude": 4556.76
   },
   {
     "country_of_registration": "United States",
-    "call_sign": "SKW4158",
-    "velocity": 73.41,
+    "call_sign": "N802DJ",
+    "velocity": 78.74,
     "geo_altitude": 624.84
   },
   {
     "country_of_registration": "United States",
-    "call_sign": "N642HB",
-    "velocity": 24.69,
-    "geo_altitude": 236.22
+    "call_sign": "SKW4158",
+    "velocity": 2.31,
+    "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "EDV5524",
+    "velocity": 193.79,
+    "geo_altitude": 5021.58
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "ACA401",
-    "velocity": 157.86,
-    "geo_altitude": 2491.74
+    "velocity": 93.85,
+    "geo_altitude": 845.82
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW527C",
-    "velocity": 229.96,
-    "geo_altitude": 10774.68
+    "velocity": 227.49,
+    "geo_altitude": 9646.92
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "ACA135",
-    "velocity": 226.59,
-    "geo_altitude": 8930.64
+    "velocity": 221.2,
+    "geo_altitude": 8938.26
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW3864",
-    "velocity": 198.45,
-    "geo_altitude": 5173.98
+    "velocity": 149.55,
+    "geo_altitude": 3002.28
   },
   {
     "country_of_registration": "United States",
     "call_sign": "MTN8459",
-    "velocity": 84.1,
-    "geo_altitude": 2004.06
+    "velocity": 86.41,
+    "geo_altitude": 1127.76
   },
   {
     "country_of_registration": "United States",
     "call_sign": "EJA746",
-    "velocity": 193.77,
-    "geo_altitude": 5486.4
+    "velocity": 257.37,
+    "geo_altitude": 9372.6
   },
   {
     "country_of_registration": "United States",
     "call_sign": "LXJ399",
-    "velocity": 83.11,
-    "geo_altitude": 1089.66
+    "velocity": 48.35,
+    "geo_altitude": 182.88
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL224",
-    "velocity": 72.54,
-    "geo_altitude": 243.84
+    "velocity": 2.31,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "CGPZT",
-    "velocity": 51.84,
-    "geo_altitude": 1173.48
+    "velocity": 21.02,
+    "geo_altitude": 1226.82
   },
   {
     "country_of_registration": "United States",
     "call_sign": "JBU1236",
-    "velocity": 205.29,
-    "geo_altitude": 6377.94
+    "velocity": 223.32,
+    "geo_altitude": 8031.48
   },
   {
     "country_of_registration": "United States",
@@ -4160,44 +4478,50 @@
   {
     "country_of_registration": "United States",
     "call_sign": "N4668N",
-    "velocity": 91.23,
-    "geo_altitude": 1790.7
+    "velocity": 96.74,
+    "geo_altitude": 822.96
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL490",
-    "velocity": 152.79,
-    "geo_altitude": 2644.14
+    "velocity": 94.67,
+    "geo_altitude": 838.2
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL977",
-    "velocity": 240.29,
-    "geo_altitude": 7696.2
+    "velocity": 244.2,
+    "geo_altitude": 9075.42
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "Неизвестно",
+    "velocity": 75.83,
+    "geo_altitude": 228.6
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UPS496",
-    "velocity": 218.23,
-    "geo_altitude": 12199.62
+    "velocity": 235.96,
+    "geo_altitude": 12176.76
   },
   {
     "country_of_registration": "United States",
     "call_sign": "JBU287",
-    "velocity": 230.24,
-    "geo_altitude": 10888.98
+    "velocity": 231.95,
+    "geo_altitude": 10911.84
   },
   {
     "country_of_registration": "United States",
     "call_sign": "CXK190",
-    "velocity": 52.58,
+    "velocity": 54.11,
     "geo_altitude": 1242.06
   },
   {
-    "country_of_registration": "United States",
-    "call_sign": "UPS64",
-    "velocity": 244.36,
-    "geo_altitude": 11742.42
+    "country_of_registration": "Canada",
+    "call_sign": "PVL7672",
+    "velocity": 122.77,
+    "geo_altitude": 2819.4
   },
   {
     "country_of_registration": "United States",
@@ -4208,79 +4532,79 @@
   {
     "country_of_registration": "United States",
     "call_sign": "DAL3229",
-    "velocity": 228.73,
-    "geo_altitude": 8359.14
+    "velocity": 222.56,
+    "geo_altitude": 8351.52
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N133GX",
-    "velocity": 31.55,
-    "geo_altitude": 365.76
+    "velocity": 31.32,
+    "geo_altitude": 396.24
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL499",
-    "velocity": 0,
+    "velocity": 6.94,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ASA274",
-    "velocity": 215.8,
-    "geo_altitude": 10454.64
+    "velocity": 212.81,
+    "geo_altitude": 10843.26
   },
   {
     "country_of_registration": "United States",
     "call_sign": "JIA5312",
-    "velocity": 186.49,
-    "geo_altitude": 4396.74
+    "velocity": 208.78,
+    "geo_altitude": 7117.08
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SCX1611",
-    "velocity": 212.37,
-    "geo_altitude": 11620.5
+    "velocity": 209.61,
+    "geo_altitude": 11612.88
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW3996",
-    "velocity": 186.16,
-    "geo_altitude": 10927.08
+    "velocity": 186.08,
+    "geo_altitude": 10934.7
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AMF1650",
-    "velocity": 90.23,
+    "velocity": 90.95,
     "geo_altitude": 3131.82
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL1665",
-    "velocity": 157.16,
-    "geo_altitude": 3177.54
+    "velocity": 127.46,
+    "geo_altitude": 2164.08
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL593",
-    "velocity": 77.62,
-    "geo_altitude": 982.98
+    "velocity": 10.29,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N4468R",
-    "velocity": 53.83,
-    "geo_altitude": 510.54
+    "velocity": 40.7,
+    "geo_altitude": 472.44
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N845D",
-    "velocity": 36.25,
-    "geo_altitude": 426.72
+    "velocity": 55.67,
+    "geo_altitude": 579.12
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UPS5555",
-    "velocity": 1.03,
+    "velocity": 5.92,
     "geo_altitude": 0.0
   },
   {
@@ -4291,260 +4615,278 @@
   },
   {
     "country_of_registration": "United States",
-    "call_sign": "N226DH",
-    "velocity": 57.83,
-    "geo_altitude": 266.7
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "N9454S",
-    "velocity": 30.63,
-    "geo_altitude": 373.38
-  },
-  {
-    "country_of_registration": "United States",
     "call_sign": "UAL550",
     "velocity": 0,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
+    "call_sign": "SKW5477",
+    "velocity": 4.89,
+    "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "DAL1015",
+    "velocity": 218.1,
+    "geo_altitude": 11125.2
+  },
+  {
+    "country_of_registration": "United States",
     "call_sign": "ENY3779",
-    "velocity": 9.26,
+    "velocity": 6.94,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "BBA13T",
-    "velocity": 238.63,
-    "geo_altitude": 10355.58
+    "velocity": 232.78,
+    "geo_altitude": 9403.08
   },
   {
     "country_of_registration": "United States",
     "call_sign": "RPA3470",
-    "velocity": 218.12,
-    "geo_altitude": 8602.98
+    "velocity": 218.65,
+    "geo_altitude": 8587.74
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "ACA318",
+    "velocity": 0,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N1708F",
-    "velocity": 33.1,
-    "geo_altitude": 655.32
+    "velocity": 35.29,
+    "geo_altitude": 472.44
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N171AR",
-    "velocity": 178.07,
-    "geo_altitude": 5105.4
+    "velocity": 232.14,
+    "geo_altitude": 7917.18
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N802PP",
-    "velocity": 67,
-    "geo_altitude": 335.28
+    "velocity": 77.79,
+    "geo_altitude": 304.8
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N947VA",
-    "velocity": 45.25,
-    "geo_altitude": 472.44
+    "velocity": 1.8,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "WJA669",
-    "velocity": 247.43,
-    "geo_altitude": 11361.42
+    "velocity": 247.48,
+    "geo_altitude": 11346.18
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL2474",
-    "velocity": 149.53,
-    "geo_altitude": 2560.32
+    "velocity": 216.74,
+    "geo_altitude": 6118.86
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AAL1516",
-    "velocity": 250.62,
-    "geo_altitude": 10187.94
+    "velocity": 257.81,
+    "geo_altitude": 10675.62
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N785BG",
-    "velocity": 50.43,
-    "geo_altitude": 876.3
+    "velocity": 48.05,
+    "geo_altitude": 906.78
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N802JL",
-    "velocity": 77.32,
-    "geo_altitude": 419.1
+    "velocity": 63.64,
+    "geo_altitude": 381
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "DAL1675",
+    "velocity": 0,
+    "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "Germany",
+    "call_sign": "BOX746",
+    "velocity": 273.32,
+    "geo_altitude": 10934.7
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "ACA701",
-    "velocity": 235.06,
-    "geo_altitude": 9433.56
+    "velocity": 210.78,
+    "geo_altitude": 6743.7
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N222DE",
-    "velocity": 86.9,
-    "geo_altitude": 4686.3
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "DAL491",
-    "velocity": 222.21,
-    "geo_altitude": 8831.58
+    "velocity": 91.2,
+    "geo_altitude": 6614.16
   },
   {
     "country_of_registration": "United States",
     "call_sign": "EDV5216",
-    "velocity": 240.7,
-    "geo_altitude": 10416.54
+    "velocity": 241.12,
+    "geo_altitude": 10401.3
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N4607D",
-    "velocity": 70.5,
-    "geo_altitude": 2971.8
+    "velocity": 83.57,
+    "geo_altitude": 2461.26
   },
   {
     "country_of_registration": "United States",
     "call_sign": "KAP8380",
-    "velocity": 98.59,
-    "geo_altitude": 2186.94
+    "velocity": 86.07,
+    "geo_altitude": 1524
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL723",
-    "velocity": 221.09,
-    "geo_altitude": 7330.44
+    "velocity": 198.58,
+    "geo_altitude": 5036.82
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AIP303",
-    "velocity": 134.13,
+    "velocity": 132.76,
     "geo_altitude": 5425.44
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AAY552",
-    "velocity": 230.7,
-    "geo_altitude": 9959.34
-  },
-  {
-    "country_of_registration": "United States",
-    "call_sign": "N540M",
-    "velocity": 136.79,
-    "geo_altitude": 1569.72
+    "velocity": 214.57,
+    "geo_altitude": 8359.14
   },
   {
     "country_of_registration": "United States",
     "call_sign": "IRO8408",
-    "velocity": 65.34,
-    "geo_altitude": 2308.86
+    "velocity": 82.6,
+    "geo_altitude": 2804.16
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "N8521Q",
+    "velocity": 48.97,
+    "geo_altitude": 495.3
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "WJA221",
-    "velocity": 189.9,
-    "geo_altitude": 12009.12
+    "velocity": 189.97,
+    "geo_altitude": 12001.5
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SCX565",
-    "velocity": 277.42,
-    "geo_altitude": 11399.52
+    "velocity": 270.51,
+    "geo_altitude": 11894.82
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "WJA61",
-    "velocity": 251.17,
-    "geo_altitude": 10980.42
+    "velocity": 245.18,
+    "geo_altitude": 10949.94
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL2145",
-    "velocity": 227.43,
-    "geo_altitude": 8930.64
+    "velocity": 228.23,
+    "geo_altitude": 8923.02
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AAL2523",
-    "velocity": 105.94,
-    "geo_altitude": 708.66
-  },
-  {
-    "country_of_registration": "Republic of Korea",
-    "call_sign": "KAL081",
-    "velocity": 269.61,
-    "geo_altitude": 12352.02
+    "velocity": 195.47,
+    "geo_altitude": 3794.76
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SWA745",
-    "velocity": 203.9,
-    "geo_altitude": 5433.06
+    "velocity": 236.42,
+    "geo_altitude": 8397.24
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL2139",
-    "velocity": 266.82,
+    "velocity": 269.42,
     "geo_altitude": 11955.78
   },
   {
     "country_of_registration": "Canada",
-    "call_sign": "ACA1501",
-    "velocity": 1.29,
-    "geo_altitude": 0.0
+    "call_sign": "CGEFZ",
+    "velocity": 28.96,
+    "geo_altitude": 381
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SWA2732",
-    "velocity": 81.8,
-    "geo_altitude": 723.9
+    "velocity": 63.69,
+    "geo_altitude": 198.12
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N5157V",
-    "velocity": 56.66,
+    "velocity": 59.61,
     "geo_altitude": 2194.56
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "ACA301",
-    "velocity": 222.19,
-    "geo_altitude": 6530.34
+    "velocity": 232.98,
+    "geo_altitude": 8435.34
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "MAL8060",
-    "velocity": 118.49,
-    "geo_altitude": 1546.86
+    "velocity": 53.36,
+    "geo_altitude": 213.36
   },
   {
     "country_of_registration": "United States",
     "call_sign": "EJM53",
-    "velocity": 244.12,
-    "geo_altitude": 12915.9
+    "velocity": 245.25,
+    "geo_altitude": 12893.04
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL601",
-    "velocity": 218.02,
-    "geo_altitude": 10104.12
+    "velocity": 243.68,
+    "geo_altitude": 10744.2
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "RPA4723",
+    "velocity": 180.97,
+    "geo_altitude": 3787.14
   },
   {
     "country_of_registration": "Japan",
     "call_sign": "ANA102",
-    "velocity": 256.89,
-    "geo_altitude": 11986.26
+    "velocity": 255.67,
+    "geo_altitude": 12009.12
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "AMF1562",
+    "velocity": 97.78,
+    "geo_altitude": 1584.96
   },
   {
     "country_of_registration": "United States",
     "call_sign": "FRG1510",
-    "velocity": 109.3,
+    "velocity": 106.16,
     "geo_altitude": 2514.6
   },
   {
@@ -4554,34 +4896,52 @@
     "geo_altitude": 0.0
   },
   {
-    "country_of_registration": "United States",
-    "call_sign": "UAL2070",
-    "velocity": 7.46,
+    "country_of_registration": "Canada",
+    "call_sign": "Неизвестно",
+    "velocity": 1.03,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
+    "call_sign": "N447PM",
+    "velocity": 59.24,
+    "geo_altitude": 594.36
+  },
+  {
+    "country_of_registration": "United States",
     "call_sign": "N51413",
-    "velocity": 48.49,
-    "geo_altitude": 2865.12
+    "velocity": 65.92,
+    "geo_altitude": 3116.58
   },
   {
     "country_of_registration": "United States",
     "call_sign": "EJA460",
-    "velocity": 192.65,
-    "geo_altitude": 5364.48
+    "velocity": 192.77,
+    "geo_altitude": 5349.24
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N602TP",
-    "velocity": 112.72,
-    "geo_altitude": 4069.08
+    "velocity": 113.6,
+    "geo_altitude": 4061.46
   },
   {
     "country_of_registration": "Malta",
     "call_sign": "VJT972",
-    "velocity": 265.25,
-    "geo_altitude": 12954
+    "velocity": 267.31,
+    "geo_altitude": 12969.24
+  },
+  {
+    "country_of_registration": "Canada",
+    "call_sign": "CFJKK713",
+    "velocity": 10.29,
+    "geo_altitude": 0.0
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "N2898Y",
+    "velocity": 46.01,
+    "geo_altitude": 1127.76
   },
   {
     "country_of_registration": "United States",
@@ -4592,80 +4952,80 @@
   {
     "country_of_registration": "United States",
     "call_sign": "WIS900",
-    "velocity": 82.39,
+    "velocity": 84.91,
     "geo_altitude": 1226.82
   },
   {
     "country_of_registration": "United States",
-    "call_sign": "AAL1259",
-    "velocity": 0,
-    "geo_altitude": 0.0
+    "call_sign": "N375KR",
+    "velocity": 131.16,
+    "geo_altitude": 2956.56
   },
   {
     "country_of_registration": "United States",
     "call_sign": "AAL2115",
-    "velocity": 202.34,
-    "geo_altitude": 5318.76
+    "velocity": 225.36,
+    "geo_altitude": 7917.18
   },
   {
     "country_of_registration": "United States",
     "call_sign": "CKS936",
-    "velocity": 214.46,
+    "velocity": 225.32,
     "geo_altitude": 12687.3
   },
   {
     "country_of_registration": "United States",
     "call_sign": "CXK648",
-    "velocity": 35.73,
-    "geo_altitude": 518.16
+    "velocity": 35.19,
+    "geo_altitude": 480.06
   },
   {
     "country_of_registration": "United States",
     "call_sign": "FDX4",
-    "velocity": 281.18,
-    "geo_altitude": 11155.68
+    "velocity": 279.76,
+    "geo_altitude": 11803.38
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "CJT1926",
-    "velocity": 215.02,
+    "velocity": 211.61,
     "geo_altitude": 11612.88
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "JZA781",
-    "velocity": 137.98,
-    "geo_altitude": 3078.48
+    "velocity": 96.02,
+    "geo_altitude": 1135.38
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL1499",
-    "velocity": 110.59,
-    "geo_altitude": 990.6
+    "velocity": 178.73,
+    "geo_altitude": 5455.92
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N9461C",
-    "velocity": 62.66,
-    "geo_altitude": 1363.98
+    "velocity": 62.41,
+    "geo_altitude": 1394.46
   },
   {
-    "country_of_registration": "United States",
-    "call_sign": "ENY3472",
-    "velocity": 5.14,
+    "country_of_registration": "Canada",
+    "call_sign": "ACA201",
+    "velocity": 0,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "Canada",
     "call_sign": "MCB02",
-    "velocity": 101.55,
-    "geo_altitude": 5875.02
+    "velocity": 129.84,
+    "geo_altitude": 6659.88
   },
   {
     "country_of_registration": "United States",
     "call_sign": "GTI8193",
-    "velocity": 290.08,
-    "geo_altitude": 11193.78
+    "velocity": 284.96,
+    "geo_altitude": 11201.4
   },
   {
     "country_of_registration": "United States",
@@ -4682,85 +5042,103 @@
   {
     "country_of_registration": "United States",
     "call_sign": "N60707",
-    "velocity": 77.34,
-    "geo_altitude": 1127.76
+    "velocity": 7.2,
+    "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "RPA4622",
-    "velocity": 151.25,
-    "geo_altitude": 2430.78
+    "velocity": 71,
+    "geo_altitude": 464.82
   },
   {
     "country_of_registration": "United States",
-    "call_sign": "UAL1689",
-    "velocity": 246.31,
-    "geo_altitude": 9509.76
+    "call_sign": "CNS1820",
+    "velocity": 74.52,
+    "geo_altitude": 701.04
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N442TS",
-    "velocity": 64.44,
-    "geo_altitude": 1645.92
+    "velocity": 64.52,
+    "geo_altitude": 1569.72
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UPS974",
-    "velocity": 219.79,
-    "geo_altitude": 9867.9
+    "velocity": 176.98,
+    "geo_altitude": 5943.6
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "DAL2390",
+    "velocity": 227.72,
+    "geo_altitude": 10126.98
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ASA21",
-    "velocity": 223.94,
-    "geo_altitude": 10713.72
+    "velocity": 223.2,
+    "geo_altitude": 10721.34
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N947KC",
-    "velocity": 36.49,
-    "geo_altitude": 541.02
+    "velocity": 32.04,
+    "geo_altitude": 944.88
   },
   {
     "country_of_registration": "United States",
     "call_sign": "SKW3660",
-    "velocity": 146.01,
-    "geo_altitude": 3208.02
+    "velocity": 176.03,
+    "geo_altitude": 6118.86
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N706RR",
-    "velocity": 208.26,
-    "geo_altitude": 7566.66
+    "velocity": 176.78,
+    "geo_altitude": 3688.08
   },
   {
     "country_of_registration": "United States",
     "call_sign": "UAL1856",
-    "velocity": 184.85,
-    "geo_altitude": 3451.86
+    "velocity": 136.85,
+    "geo_altitude": 1805.94
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "AAL392",
+    "velocity": 231.63,
+    "geo_altitude": 9494.52
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL814",
-    "velocity": 236.22,
-    "geo_altitude": 8420.1
+    "velocity": 214.23,
+    "geo_altitude": 10287
   },
   {
     "country_of_registration": "United States",
     "call_sign": "DAL1357",
-    "velocity": 0,
+    "velocity": 3.09,
     "geo_altitude": 0.0
   },
   {
     "country_of_registration": "United States",
     "call_sign": "ENY3587",
-    "velocity": 220.49,
-    "geo_altitude": 8839.2
+    "velocity": 222.89,
+    "geo_altitude": 8854.44
   },
   {
     "country_of_registration": "United States",
     "call_sign": "N937MG",
-    "velocity": 186.2,
-    "geo_altitude": 4008.12
+    "velocity": 181.13,
+    "geo_altitude": 3429
+  },
+  {
+    "country_of_registration": "United States",
+    "call_sign": "CKS241",
+    "velocity": 240.7,
+    "geo_altitude": 9525
   }
 ]
