@@ -20,8 +20,13 @@ def user_interaction():
     print(f'Данные со списком самолетов введенной странны ({country}) получены и\n'
           f'сохранены в файл: save_api_info_json.txt.')
 
+    # Представляем на выбор страну пользователю.
+    countrys = Aeroplane.present_country(get_aeroplanes_country_obj)
+    for country in countrys:
+        print(country)
+
     # Проводим фильтрацию списка по стране регистрации.
-    country = input("Введите название страны для фильтрации по стране регистрации: ")
+    country = input("Введите название страны на выбор из представленного списка для фильтрации по стране регистрации: ")
     country_filter = Aeroplane.search_plane_country_of_registration(get_aeroplanes_country_obj, country)
     print(country_filter)
 

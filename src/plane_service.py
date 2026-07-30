@@ -36,8 +36,7 @@ class Aeroplane:
 
         min_speed, max_speed = speeds[0].strip(), speeds[1].strip()
         list_planes_obj = [plane for plane in data if float(min_speed) <= plane.velocity <= float(max_speed)]
-        sorted_list = sorted(list_planes_obj, key=lambda x: x.velocity, reverse=True)
-        return sorted_list
+        return list_planes_obj
 
     def top_geo_altitude(data, top):
         """Получение топ самолетов по высоте."""
@@ -83,3 +82,19 @@ class Aeroplane:
         """Сравнение самолетов по скорости полета."""
 
         return self if self.velocity > other.velocity else other
+
+    @staticmethod
+    def present_country(data):
+        """Получаем список самолетов и выводим только
+        список доступных стран по регистрации самолетов."""
+
+        if not data:
+            print('Список стран пуст ввиду отсутствия самолетов по введенным критериям.')
+            return None
+        else:
+            list_country = []
+
+            for plane in data:
+                if plane.country_of_registration not in list_country:
+                    list_country.append(plane.country_of_registration)
+            return list_country
