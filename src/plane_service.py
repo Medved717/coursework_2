@@ -111,18 +111,3 @@ class Aeroplane:
                 if plane.country_of_registration not in list_country:
                     list_country.append(plane.country_of_registration)
             return list_country
-
-speed = ['100', '300']
-a = [Aeroplane("Russia", "AFR511", 262.96, 12915.9),
-            Aeroplane("Oman", "AFR705", 252.31, 12915.9),
-            Aeroplane("Russia", "AFR75K", 280.22, 12832.08),
-            Aeroplane("Egypt", "FBU77U", 227.23, 12824.46),
-            Aeroplane("France", "TVF26ZG", 216.9, 12618.72),
-            Aeroplane("Russia", "TVF15YM", 228.96, 12603.48),
-            Aeroplane("Nigeria", "FWI43M", 268.44, 12603.48),
-            Aeroplane("France", "TVF8624", 242.59, 12595.86),
-            Aeroplane("Russia", "TVF8336", 226.94, 12481.56),
-            Aeroplane("Seychelles", "AFR65F", 285.81, 12397.74)]
-
-Aeroplane.speed_filter(a, speed)
-print(a)
