@@ -41,3 +41,10 @@ def test_search_plane_country_of_registration(list_obj):
     assert result[2].call_sign == "TVF15YM"
     assert result[3].call_sign == "TVF8336"
 
+
+def test_height_comparison():
+    plane_1 = Aeroplane("Russia", "AFR511", 262.96, 12915.9)
+    plane_2 = Aeroplane("France", "TVF8624", 242.59, 12595.86)
+    result = Aeroplane.height_comparison(plane_1, plane_2)
+    assert result.country_of_registration == "Russia"
+

@@ -66,7 +66,7 @@ class Aeroplane:
 
     @staticmethod
     def search_plane_country_of_registration(data, country_of_registration):
-        """Ищем самолеты по странам и выводим списки."""
+        """Ищем самолеты по странам и выводим списки самолетов искомой страны."""
 
         list_country = [
             plain
@@ -100,9 +100,7 @@ class Aeroplane:
         список доступных стран по регистрации самолетов."""
 
         if not data:
-            print(
-                "Список стран пуст ввиду отсутствия самолетов по введенным критериям."
-            )
+            print("Список стран пуст ввиду отсутствия самолетов по введенным критериям.")
             return None
         else:
             list_country = []
