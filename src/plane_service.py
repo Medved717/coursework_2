@@ -75,11 +75,11 @@ class Aeroplane:
         ]
         return list_country
 
-    def search_plane_call_sing(data, call_sign):
+    def search_plane_call_sign(data, call_sign):
         """Ищем самолеты по позывному и выводим списки найденных объектов"""
 
-        sorted_call_sing = [plain for plain in data if plain.call_sign == call_sign]
-        return sorted_call_sing
+        sorted_call_sign = [plain for plain in data if plain.call_sign == call_sign]
+        return sorted_call_sign
 
     def height_comparison(self, other):
         """Сравнение самолетов по высоте полета."""
