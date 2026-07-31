@@ -48,3 +48,16 @@ def test_height_comparison():
     result = Aeroplane.height_comparison(plane_1, plane_2)
     assert result.country_of_registration == "Russia"
 
+
+def test_present_country(list_obj):
+    result = Aeroplane.present_country(list_obj)
+    assert len(result) == 6
+    assert result[2] == "Egypt"
+
+
+def test_speed_comparison():
+    plane_1 = Aeroplane("Russia", "AFR511", 262.96, 12915.9)
+    plane_2 = Aeroplane("France", "TVF8624", 300.59, 12595.86)
+    result = Aeroplane.speed_comparison(plane_1, plane_2)
+    assert result.country_of_registration == "France"
+
