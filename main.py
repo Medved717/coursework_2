@@ -42,7 +42,7 @@ def user_interaction():
     # Предлагаем ввести диапозон скорости для поиска, фильтрации и сортировки по заданным параметрам.
     speed_input = input(
         "Введите минимальный и максимальный диапазон высот полета через запятую\n"
-        "(Пример: 50, 200): "
+        "(Пример: 100, 300): "
     ).split(",")
     result = Aeroplane.speed_filter(altitude_sorted, speed_input)
 
@@ -53,6 +53,3 @@ def user_interaction():
 
 if __name__ == "__main__":
     user_interaction()
-
-# Canada
-# 1600, 8000

@@ -1,4 +1,4 @@
-from requests import get
+import requests
 from abc import ABC, abstractmethod
 
 
@@ -30,7 +30,7 @@ class APIAdapter(ApiService):
         }
 
         try:
-            response = get(
+            response = requests.get(
                 url=self.openstreetmap_url,
                 params=params_nominatim,
                 headers=headers_nominatim,
@@ -68,7 +68,7 @@ class APIAdapter(ApiService):
         }
 
         try:
-            response = get(url=self.opensky_url, params=params, timeout=60)
+            response = requests.get(url=self.opensky_url, params=params, timeout=60)
             response.raise_for_status()
         except Exception as e:
             print(
