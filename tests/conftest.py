@@ -3,10 +3,10 @@ from src.plane_service import Aeroplane
 
 @pytest.fixture
 def list_obj():
-    """Объекты Aeroplane (самолеты) до фильтров."""
+    """Объекты Aeroplane (самолеты)."""
 
     return [Aeroplane("Russia", "AFR511", 262.96, 12915.9),
-            Aeroplane("Oman", "AFR705", 252.31, 12915.9),
+            Aeroplane("Oman", "AFR705", 252.31, 30000.9),
             Aeroplane("Russia", "AFR75K", 280.22, 12832.08),
             Aeroplane("Egypt", "FBU77U", 227.23, 12824.46),
             Aeroplane("France", "TVF26ZG", 216.9, 12618.72),
@@ -14,7 +14,7 @@ def list_obj():
             Aeroplane("Nigeria", "FWI43M", 268.44, 12603.48),
             Aeroplane("France", "TVF8624", 242.59, 12595.86),
             Aeroplane("Russia", "TVF8336", 226.94, 12481.56),
-            Aeroplane("Seychelles", "AFR65F", 285.81, 12397.74)]
+            Aeroplane("Seychelles", "AFR65F", 385.81, 12397.74)]
 
 
 @pytest.fixture
@@ -31,20 +31,16 @@ def raw_information_1():
 
 
 @pytest.fixture
-def list_obj_sorted_speed():
+def list_obj_sorted_geo():
     """Отфильтрованные результаты самолетов по скорости 100 - 300."""
 
-    return [Aeroplane("Russia", "AFR511", 262.96, 12915.9), Aeroplane("Oman", "AFR705", 252.31, 12915.9), Aeroplane("Russia", "AFR75K", 280.22, 12832.08), Aeroplane("Egypt", "FBU77U", 227.23, 12824.46), Aeroplane("France", "TVF26ZG", 216.9, 12618.72), Aeroplane("Russia", "TVF15YM", 228.96, 12603.48), Aeroplane("Nigeria", "FWI43M", 268.44, 12603.48), Aeroplane("France", "TVF8624", 242.59, 12595.86), Aeroplane("Russia", "TVF8336", 226.94, 12481.56), Aeroplane("Seychelles", "AFR65F", 285.81, 12397.74)]
-
-
-
-{'country_of_registration': 'Russia', 'call_sign': 'AFR511', 'velocity': 262.96, 'geo_altitude': 12915.9}
-{'country_of_registration': 'Oman', 'call_sign': 'AFR705', 'velocity': 252.31, 'geo_altitude': 12915.9}
-{'country_of_registration': 'Russia', 'call_sign': 'AFR75K', 'velocity': 280.22, 'geo_altitude': 12832.08}
-{'country_of_registration': 'Egypt', 'call_sign': 'FBU77U', 'velocity': 227.23, 'geo_altitude': 12824.46}
-{'country_of_registration': 'France', 'call_sign': 'TVF26ZG', 'velocity': 216.9, 'geo_altitude': 12618.72}
-{'country_of_registration': 'Russia', 'call_sign': 'TVF15YM', 'velocity': 228.96, 'geo_altitude': 12603.48}
-{'country_of_registration': 'Nigeria', 'call_sign': 'FWI43M', 'velocity': 268.44, 'geo_altitude': 12603.48}
-{'country_of_registration': 'France', 'call_sign': 'TVF8624', 'velocity': 242.59, 'geo_altitude': 12595.86}
-{'country_of_registration': 'Russia', 'call_sign': 'TVF8336', 'velocity': 226.94, 'geo_altitude': 12481.56}
-{'country_of_registration': 'Seychelles', 'call_sign': 'AFR65F', 'velocity': 285.81, 'geo_altitude': 12397.74}
+    return [Aeroplane("Oman", "AFR705", 252.31, 30000.9),
+            Aeroplane("Russia", "AFR511", 262.96, 12915.9),
+            Aeroplane("Russia", "AFR75K", 280.22, 12832.08),
+            Aeroplane("Egypt", "FBU77U", 227.23, 12824.46),
+            Aeroplane("France", "TVF26ZG", 216.9, 12618.72),
+            Aeroplane("Russia", "TVF15YM", 228.96, 12603.48),
+            Aeroplane("Nigeria", "FWI43M", 268.44, 12603.48),
+            Aeroplane("France", "TVF8624", 242.59, 12595.86),
+            Aeroplane("Russia", "TVF8336", 226.94, 12481.56),
+            Aeroplane("Seychelles", "AFR65F", 385.81, 12397.74)]
