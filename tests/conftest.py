@@ -22,4 +22,7 @@ def raw_information():
 
 @pytest.fixture
 def raw_information_1():
-        return {'time': 1785476770, 'states': [['39de4f', 'TVF6306 ', 'France', 1785476769, 1785476769, 2.3485, 47.9893, 6598.92, False, 203.59, 164.31, 11.7, None, 6941.82, '7635', False, 0], ]}
+        return {'time': 1785476770, 'states': [['39de4f', 'TVF6306 ', 'France', 1785476769, 1785476769, 2.3485, 47.9893, 6598.92, False, 203.59, 164.31, 11.7, None, 6941.82, '7635', False, 0
+                                                ]
+                                               ]
+                }
