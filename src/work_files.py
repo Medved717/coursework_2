@@ -1,7 +1,6 @@
 from abc import ABC, abstractmethod
 import os
 import json
-from src.plane_service import Aeroplane
 
 
 class WorkFiles(ABC):
