@@ -32,3 +32,12 @@ def test_to_dict(obj, expected_dict):
 def test_top_geo_altitude(list_obj, list_obj_sorted_geo):
     result = Aeroplane.top_geo_altitude(list_obj, 10)
     assert result[0].country_of_registration == "Oman"
+
+
+def test_search_plane_country_of_registration(list_obj):
+    result = Aeroplane.search_plane_country_of_registration(list_obj, 'Russia')
+    assert result[0].call_sign == "AFR511"
+    assert result[1].call_sign == "AFR75K"
+    assert result[2].call_sign == "TVF15YM"
+    assert result[3].call_sign == "TVF8336"
+
